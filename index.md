@@ -7,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+<script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=5df8a9533e0ac9001232b919&product=image-share-buttons&cms=sop' async='async'></script>
 ```markdown
 Syntax highlighted code block
 
