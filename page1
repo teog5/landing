@@ -1,1459 +1,202 @@
+<!DOCTYPE HTML>
+<!--
+	Binary by TEMPLATED
+	templated.co @templatedco
+	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+-->
+<html>
+	<head>
+		<title>Binary by TEMPLATED</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body>
 
-<!DOCTYPE html>
-<!--[if IE 6]>
-<html id="ie6" lang="it-IT" prefix="og: http://ogp.me/ns#">
-<![endif]-->
-<!--[if IE 7]>
-<html id="ie7" lang="it-IT" prefix="og: http://ogp.me/ns#">
-<![endif]-->
-<!--[if IE 8]>
-<html id="ie8" lang="it-IT" prefix="og: http://ogp.me/ns#">
-<![endif]-->
-<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
-<html lang="it-IT" prefix="og: http://ogp.me/ns#">
-<!--<![endif]-->
-<head>
-	<meta charset="UTF-8" />
-			
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<link rel="pingback" href="https://www.noovle.com/it/xmlrpc.php" />
+		<!-- Header -->
+			<header id="header">
+				<a href="index.html" class="logo"><strong>Binary</strong> by TEMPLATED</a>
+				<nav>
+					<a href="#menu">Menu</a>
+				</nav>
+			</header>
 
-		<!--[if lt IE 9]>
-	<script src="https://www.noovle.com/it/wp-content/themes/Divi/js/html5.js" type="text/javascript"></script>
-	<![endif]-->
-
-	<script type="text/javascript">
-		document.documentElement.className = 'js';
-	</script>
-
-	<script>var et_site_url='https://www.noovle.com/it';var et_post_id='2';function et_core_page_resource_fallback(a,b){"undefined"===typeof b&&(b=a.sheet.cssRules&&0===a.sheet.cssRules.length);b&&(a.onerror=null,a.onload=null,a.href?a.href=et_site_url+"/?et_core_page_resource="+a.id+et_post_id:a.src&&(a.src=et_site_url+"/?et_core_page_resource="+a.id+et_post_id))}
-</script><title>Partner Google e Servizi, Soluzioni in Cloud | Noovle</title>
-
-<!-- This site is optimized with the Yoast SEO plugin v7.5.3 - https://yoast.com/wordpress/plugins/seo/ -->
-<meta name="description" content="Noovle è partner Google! Consulente Cloud Computing per aziende e Pubbliche Amministrazioni che vogliono acquistare i servizi cloud."/>
-<link rel="canonical" href="https://www.noovle.com/it/" />
-<meta property="og:locale" content="it_IT" />
-<meta property="og:type" content="website" />
-<meta property="og:title" content="Partner Google e Servizi, Soluzioni in Cloud | Noovle" />
-<meta property="og:description" content="Noovle è partner Google! Consulente Cloud Computing per aziende e Pubbliche Amministrazioni che vogliono acquistare i servizi cloud." />
-<meta property="og:url" content="https://www.noovle.com/it/" />
-<meta property="og:site_name" content="Noovle Italia" />
-<meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:description" content="Noovle è partner Google! Consulente Cloud Computing per aziende e Pubbliche Amministrazioni che vogliono acquistare i servizi cloud." />
-<meta name="twitter:title" content="Partner Google e Servizi, Soluzioni in Cloud | Noovle" />
-<meta name="twitter:image" content="https://www.noovle.com/it/wp-content/uploads/sites/2/2018/11/NOOVLE_Infografica-3010-2018.png" />
-<script type='application/ld+json'>{"@context":"https:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/www.noovle.com\/it\/","name":"Noovle Italia","potentialAction":{"@type":"SearchAction","target":"https:\/\/www.noovle.com\/it\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
-<!-- / Yoast SEO plugin. -->
-
-<link rel='dns-prefetch' href='//fonts.googleapis.com' />
-<link rel='dns-prefetch' href='//s.w.org' />
-<link rel="alternate" type="application/rss+xml" title="Noovle Italia &raquo; Feed" href="https://www.noovle.com/it/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Noovle Italia &raquo; Feed dei commenti" href="https://www.noovle.com/it/comments/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Noovle Italia &raquo; Home Feed dei commenti" href="https://www.noovle.com/it/home/feed/" />
-		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.noovle.com\/it\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.5"}};
-			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script>
-		<meta content="divi-child v.2.5.9" name="generator"/><style type="text/css">
-img.wp-smiley,
-img.emoji {
-	display: inline !important;
-	border: none !important;
-	box-shadow: none !important;
-	height: 1em !important;
-	width: 1em !important;
-	margin: 0 .07em !important;
-	vertical-align: -0.1em !important;
-	background: none !important;
-	padding: 0 !important;
-}
-</style>
-<link rel='stylesheet' id='contact-form-7-css'  href='https://www.noovle.com/it/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0.1' type='text/css' media='all' />
-<link rel='stylesheet' id='parent-style-css'  href='https://www.noovle.com/it/wp-content/themes/Divi/style.css?ver=4.9.5' type='text/css' media='all' />
-<link rel='stylesheet' id='child-style-css'  href='https://www.noovle.com/it/wp-content/themes/divi-child/style.css?ver=4.9.5' type='text/css' media='all' />
-<link rel='stylesheet' id='divi-fonts-css'  href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&#038;subset=latin,latin-ext' type='text/css' media='all' />
-<link rel='stylesheet' id='divi-style-css'  href='https://www.noovle.com/it/wp-content/themes/divi-child/style.css?ver=3.0.106' type='text/css' media='all' />
-<link rel='stylesheet' id='et-builder-googlefonts-cached-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C700%2C700italic%2C900%2C900italic&#038;ver=4.9.5#038;subset=cyrillic,greek,vietnamese,latin,greek-ext,latin-ext,cyrillic-ext' type='text/css' media='all' />
-<link rel='stylesheet' id='msl-main-css'  href='https://www.noovle.com/it/wp-content/plugins/master-slider/public/assets/css/masterslider.main.css?ver=3.5.3' type='text/css' media='all' />
-<link rel='stylesheet' id='msl-custom-css'  href='https://www.noovle.com/it/wp-content/uploads/sites/2/master-slider/custom.css?ver=1.1' type='text/css' media='all' />
-<link rel='stylesheet' id='dashicons-css'  href='https://www.noovle.com/it/wp-includes/css/dashicons.min.css?ver=4.9.5' type='text/css' media='all' />
-<link rel='stylesheet' id='addtoany-css'  href='https://www.noovle.com/it/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.15' type='text/css' media='all' />
-<script type='text/javascript' src='https://www.noovle.com/it/wp-content/plugins/jquery-updater/js/jquery-3.3.1.min.js?ver=3.3.1'></script>
-<script type='text/javascript' src='https://www.noovle.com/it/wp-content/plugins/add-to-any/addtoany.min.js?ver=1.1'></script>
-<script type='text/javascript' src='https://www.noovle.com/it/wp-content/plugins/jquery-updater/js/jquery-migrate-3.0.0.min.js?ver=3.0.0'></script>
-<link rel='https://api.w.org/' href='https://www.noovle.com/it/wp-json/' />
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.noovle.com/it/xmlrpc.php?rsd" />
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.noovle.com/it/wp-includes/wlwmanifest.xml" /> 
-<meta name="generator" content="WordPress 4.9.5" />
-<link rel='shortlink' href='https://www.noovle.com/it/' />
-<link rel="alternate" type="application/json+oembed" href="https://www.noovle.com/it/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.noovle.com%2Fit%2F" />
-<link rel="alternate" type="text/xml+oembed" href="https://www.noovle.com/it/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.noovle.com%2Fit%2F&#038;format=xml" />
-
-<script data-cfasync="false">
-window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};a2a_localize = {
-	Share: "Share",
-	Save: "Save",
-	Subscribe: "Subscribe",
-	Email: "Email",
-	Bookmark: "Bookmark",
-	ShowAll: "Show all",
-	ShowLess: "Show less",
-	FindServices: "Find service(s)",
-	FindAnyServiceToAddTo: "Instantly find any service to add to",
-	PoweredBy: "Powered by",
-	ShareViaEmail: "Share via email",
-	SubscribeViaEmail: "Subscribe via email",
-	BookmarkInYourBrowser: "Bookmark in your browser",
-	BookmarkInstructions: "Press Ctrl+D or \u2318+D to bookmark this page",
-	AddToYourFavorites: "Add to your favorites",
-	SendFromWebOrProgram: "Send from any email address or email program",
-	EmailProgram: "Email program",
-	More: "More&#8230;"
-};
-
-(function(d,s,a,b){a=d.createElement(s);b=d.getElementsByTagName(s)[0];a.async=1;a.src="https://static.addtoany.com/menu/page.js";b.parentNode.insertBefore(a,b);})(document,"script");
-</script>
-<script>var ms_grabbing_curosr = 'https://www.noovle.com/it/wp-content/plugins/master-slider/public/assets/css/common/grabbing.cur', ms_grab_curosr = 'https://www.noovle.com/it/wp-content/plugins/master-slider/public/assets/css/common/grab.cur';</script>
-<meta name="generator" content="MasterSlider 3.5.3 - Responsive Touch Image Slider | avt.li/msf" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" /><link rel="shortcut icon" href="https://www.noovle.com/it/wp-content/uploads/sites/2/2014/11/noovle50x50.png" /><link rel="icon" href="https://www.noovle.com/it/wp-content/uploads/sites/2/2014/11/noovle50x50.png" sizes="32x32" />
-<link rel="icon" href="https://www.noovle.com/it/wp-content/uploads/sites/2/2014/11/noovle50x50.png" sizes="192x192" />
-<link rel="apple-touch-icon-precomposed" href="https://www.noovle.com/it/wp-content/uploads/sites/2/2014/11/noovle50x50.png" />
-<meta name="msapplication-TileImage" content="https://www.noovle.com/it/wp-content/uploads/sites/2/2014/11/noovle50x50.png" />
-<link rel="stylesheet" id="et-core-unified-cached-inline-styles" href="https://www.noovle.com/it/wp-content/cache/et/1/2/2/et-core-unified-1550853847561.min.css" onerror="et_core_page_resource_fallback(this, true)" onload="et_core_page_resource_fallback(this)" /></head>
-<body class="home page-template-default page page-id-2 _masterslider _ms_version_3.5.3 et_pb_button_helper_class et_fixed_nav et_show_nav et_cover_background et_secondary_nav_enabled et_secondary_nav_two_panels et_pb_gutter windows et_pb_gutters3 et_primary_nav_dropdown_animation_fade et_secondary_nav_dropdown_animation_fade et_pb_footer_columns4 et_header_style_centered et_pb_pagebuilder_layout et_smooth_scroll et_full_width_page et_divi_theme et_minified_js et_minified_css">
-	<div id="page-container">
-
-			<div id="top-header">
-			<div class="container clearfix">
-
-			
-				<div id="et-info">
-									<span id="et-info-phone">02 89053350</span>
-				
-									<a href="mailto:info@noovle.com"><span id="et-info-email">info@noovle.com</span></a>
-				
-								</div> <!-- #et-info -->
-
-			
-							<div id="langMenu">
-						<div class="menu-lang-menu-container"><ul id="menu-lang-menu" class="langmenu"><li id="menu-item-14719" class="ita menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-14719"><a href="https://www.noovle.com/it">Ita</a></li>
-<li id="menu-item-14720" class="eng menu-item menu-item-type-custom menu-item-object-custom menu-item-14720"><a href="https://www.noovle.com/en">Eng</a></li>
-<li id="menu-item-14721" class="fra menu-item menu-item-type-custom menu-item-object-custom menu-item-14721"><a href="https://www.noovle.com/fr">Fra</a></li>
-</ul></div>					</div>
-					
-				<div id="et-secondary-menu">
-				<ul id="et-secondary-nav" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13650"><a href="https://www.noovle.com/it/societa-consulenza-ict-cloud/">Chi Siamo</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13649"><a href="https://www.noovle.com/it/partner/">Partner</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13648"><a href="https://www.noovle.com/it/eventi-noovle/">Eventi</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13761"><a href="https://www.noovle.com/it/webinar-risorse/">Webinar &amp; Risorse</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13764"><a href="https://www.noovle.com/it/dicono-di-noi/">Dicono di noi</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13765"><a href="https://www.noovle.com/it/careers/">Lavora con noi</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13652"><a href="https://www.noovle.com/it/blog/">Blog</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14051"><a href="https://www.noovle.com/it/google-cloud-academy/">Google Cloud Academy</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13647"><a href="https://www.noovle.com/it/contatti/">Contatti</a></li>
-</ul>				</div> <!-- #et-secondary-menu -->
-
-
-			</div> <!-- .container -->
-		</div> <!-- #top-header -->
-	
-	
-		<header id="main-header" data-height-onload="66">
-			<div class="container clearfix et_menu_container">
-							<div class="logo_container">
-					<span class="logo_helper"></span>
-					<a href="https://www.noovle.com/it/">
-						<img src="https://www.noovle.com/it/wp-content/uploads/sites/2/2014/11/logo.png" alt="Noovle Italia" id="logo" data-height-percentage="54" />
-					</a>
-				</div>
-				<div id="et-top-navigation" data-height="66" data-fixed-height="40">
-											<nav id="top-menu-nav">
-						<ul id="top-menu" class="nav"><li id="menu-item-13645" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13645"><a>Noovle4</a>
-<ul class="sub-menu">
-	<li id="menu-item-14050" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-14050"><a href="#">Prodotti</a>
-	<ul class="sub-menu">
-		<li id="menu-item-13716" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13716"><a href="https://www.noovle.com/it/ape-framework-applicativo/">APE Framework</a></li>
-		<li id="menu-item-13784" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13784"><a href="https://www.noovle.com/it/baboon-smart-video-cloud-platform/">BABOON | Smart Video Cloud Platform</a></li>
-		<li id="menu-item-13781" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13781"><a href="https://www.noovle.com/it/emilio-chatbot-noovle/">EMIL.IO | ChatBot</a></li>
-		<li id="menu-item-13717" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13717"><a href="https://www.noovle.com/it/geocms-piattaforma-gestione-dati-georeferenziati/">GeoCMS</a></li>
-		<li id="menu-item-14446" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14446"><a href="https://www.noovle.com/it/skillsmatch-intelligent-hr-automation-prodotto/">Skillsmatch | Intelligent HR Automation</a></li>
-		<li id="menu-item-13776" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13776"><a href="https://www.noovle.com/it/teampot-team-task-management-app/">TeamPot | Team task management app</a></li>
-		<li id="menu-item-13728" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13728"><a href="https://www.noovle.com/it/trustapp-pec-g-suite/">trustApp</a></li>
-	</ul>
-</li>
-	<li id="menu-item-15080" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-15080"><a href="#">Noovle4Change</a>
-	<ul class="sub-menu">
-		<li id="menu-item-14498" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14498"><a href="https://www.noovle.com/it/noovle-change-management/">Change Management</a></li>
-		<li id="menu-item-15081" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15081"><a href="https://www.noovle.com/it/evolution-lab-change-management-gsuite/">Evolution Lab</a></li>
-	</ul>
-</li>
-	<li id="menu-item-13778" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13778"><a href="https://www.noovle.com/it/noovle4finance/">Noovle4Finance</a></li>
-	<li id="menu-item-13772" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13772"><a href="https://www.noovle.com/it/noovle-retail-solution/">Noovle4Retail</a></li>
-	<li id="menu-item-14064" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14064"><a href="https://www.noovle.com/it/noovle-4-search-la-reevolution-del-search/">Noovle4Search</a></li>
-	<li id="menu-item-13774" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13774"><a href="https://www.noovle.com/it/noovle4security/">Noovle4Security</a></li>
-	<li id="menu-item-13785" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13785"><a href="https://www.noovle.com/it/noovle-4-hr-soluzione-per-risorse-umanenoovle-4-hr-soluzione-per-risorse-umane/">Noovle4HR</a></li>
-</ul>
-</li>
-<li id="menu-item-14048" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-14048"><a href="#">Soluzioni</a>
-<ul class="sub-menu">
-	<li id="menu-item-13720" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-13720"><a href="https://www.noovle.com/it/soluzioni-cloud-per-aziende/">Cloud</a>
-	<ul class="sub-menu">
-		<li id="menu-item-13783" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13783"><a href="https://www.noovle.com/it/hybrid-cloud/">Hybrid Cloud</a></li>
-	</ul>
-</li>
-	<li id="menu-item-13730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-13730"><a href="https://www.noovle.com/it/soluzioni-smart-enterprise/">Smart Enterprise</a>
-	<ul class="sub-menu">
-		<li id="menu-item-13723" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13723"><a href="https://www.noovle.com/it/soluzioni-collaborazione-comunicazione/">Collaboration &amp; Communication</a></li>
-		<li id="menu-item-13731" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13731"><a href="https://www.noovle.com/it/soluzioni-web-search-for-enterprise/">Web Search for Enterprise</a></li>
-		<li id="menu-item-13724" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13724"><a href="https://www.noovle.com/it/soluzioni-intranet-for-enterprise/">Intranet for Enterprise</a></li>
-		<li id="menu-item-13769" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13769"><a href="https://www.noovle.com/it/android/">Android</a></li>
-	</ul>
-</li>
-	<li id="menu-item-13721" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-13721"><a href="https://www.noovle.com/it/digital-communication/">User Experience</a>
-	<ul class="sub-menu">
-		<li id="menu-item-13766" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13766"><a href="https://www.noovle.com/it/identity-management/">Identity Management</a></li>
-		<li id="menu-item-13735" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13735"><a href="https://www.noovle.com/it/social-business-strategy/">Social Business Strategy</a></li>
-		<li id="menu-item-13736" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13736"><a href="https://www.noovle.com/it/digital-content-marketing/">Digital Content Marketing</a></li>
-		<li id="menu-item-13737" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13737"><a href="https://www.noovle.com/it/soluzioni-video-professionali/">Video</a></li>
-		<li id="menu-item-13775" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13775"><a href="https://www.noovle.com/it/digital-signage-kiosk-chrome-device/">Digital Signage</a></li>
-	</ul>
-</li>
-	<li id="menu-item-15036" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15036"><a href="https://www.noovle.com/it/nedix/">NEDiX | Noovle Enterprise DX Platform</a></li>
-	<li id="menu-item-13722" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13722"><a href="https://www.noovle.com/it/soluzioni-geospatial-intelligence/">Geospatial Intelligence</a></li>
-	<li id="menu-item-13719" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13719"><a href="https://www.noovle.com/it/tecnologie-big-data-business-intelligence/">Big Data &amp; Business Intelligence</a></li>
-	<li id="menu-item-13782" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13782"><a href="https://www.noovle.com/it/scegli-motore-ricerca-piu-adatto-alle-tue-esigenze/">Motori di ricerca</a></li>
-</ul>
-</li>
-<li id="menu-item-14049" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-14049"><a href="#">Prodotti</a>
-<ul class="sub-menu">
-	<li id="menu-item-13710" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-13710"><a href="https://www.noovle.com/it/google-cloud/">Google Cloud</a>
-	<ul class="sub-menu">
-		<li id="menu-item-13712" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13712"><a href="https://www.noovle.com/it/google-cloud/google-cloud-platform/">Google Cloud Platform</a></li>
-		<li id="menu-item-14545" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14545"><a href="https://www.noovle.com/it/apigee-piattaforma-di-gestione-delle-api/">Apigee</a></li>
-		<li id="menu-item-13711" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13711"><a href="https://www.noovle.com/it/google-cloud/g-suite/">G Suite</a></li>
-		<li id="menu-item-14073" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14073"><a href="https://www.noovle.com/it/google-cloud/google-for-education/">Google for Education</a></li>
-		<li id="menu-item-13780" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13780"><a href="https://www.noovle.com/it/happeo-intranet/">Happeo Intranet</a></li>
-		<li id="menu-item-14304" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14304"><a href="https://www.noovle.com/it/google-jamboard-chrome-devices/">Google Jamboard &amp; Chrome Devices</a></li>
-		<li id="menu-item-13713" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13713"><a href="https://www.noovle.com/it/google-cloud/google-maps-platform/">Google Maps Platform</a></li>
-	</ul>
-</li>
-	<li id="menu-item-13708" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13708"><a href="https://www.noovle.com/it/gigya/">Gigya</a></li>
-	<li id="menu-item-13709" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13709"><a href="https://www.noovle.com/it/liferay/">Liferay</a></li>
-	<li id="menu-item-13779" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13779"><a href="https://www.noovle.com/it/salesforce-crm-numero-1-al-mondo/">Salesforce</a></li>
-</ul>
-</li>
-<li id="menu-item-13644" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13644"><a href="#">Settori</a>
-<ul class="sub-menu">
-	<li id="menu-item-13760" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13760"><a href="https://www.noovle.com/it/finance/">Finance</a></li>
-	<li id="menu-item-13729" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13729"><a href="https://www.noovle.com/it/health/">Health</a></li>
-	<li id="menu-item-13762" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13762"><a href="https://www.noovle.com/it/settore-insurance/">Insurance</a></li>
-	<li id="menu-item-13763" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13763"><a href="https://www.noovle.com/it/media-publishing/">Media &amp; Publishing</a></li>
-	<li id="menu-item-13768" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13768"><a href="https://www.noovle.com/it/pubblica-amministrazione/">Pubblica Amministrazione</a></li>
-	<li id="menu-item-13643" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13643"><a href="https://www.noovle.com/it/retail">Retail</a></li>
-</ul>
-</li>
-<li id="menu-item-13733" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13733"><a href="https://www.noovle.com/it/casi-di-successo/">Casi di successo</a></li>
-</ul>						</nav>
-					
-					
-					
-										<div id="et_top_search">
-						<span id="et_search_icon"></span>
-					</div>
-					
-					<div id="et_mobile_nav_menu">
-				<div class="mobile_nav closed">
-					<span class="select_page">Seleziona una pagina</span>
-					<span class="mobile_menu_bar mobile_menu_bar_toggle"></span>
-				</div>
-			</div>				</div> <!-- #et-top-navigation -->
-			</div> <!-- .container -->
-			<div class="et_search_outer">
-				<div class="container et_search_form_container">
-					<form role="search" method="get" class="et-search-form" action="https://www.noovle.com/it/">
-					<input type="search" class="et-search-field" placeholder="Cerca &hellip;" value="" name="s" title="Cerca:" />					</form>
-					<span class="et_close_search_field"></span>
-				</div>
-			</div>
-		</header> <!-- #main-header -->
-
-		<div id="et-main-area">
-
-<div id="main-content">
-
-
-			
-				<article id="post-2" class="post-2 page type-page status-publish has-post-thumbnail hentry">
-
-				
-					<div class="entry-content">
-					<div class="et_pb_section et_pb_section_0 et_pb_with_background et_pb_fullwidth_section et_section_regular">
-				
-				
-				
-				
-					<div class="et_pb_module et_pb_slider et_slider_auto et_slider_speed_8000  et_pb_fullwidth_slider_0">
-				<div class="et_pb_slides">
-					<div class="et_pb_slide et_pb_slide_with_image et_pb_bg_layout_light et_pb_media_alignment_center et_pb_slide_0 et-pb-active-slide">
-				
-				
-				<div class="et_pb_container clearfix">
-					<div class="et_pb_slider_container_inner">
-						<div class="et_pb_slide_image"><img src="https://www.noovle.com/it/wp-content/uploads/sites/2/2018/07/smart-1.png" alt="Innovazione e Cloud" /></div>
-						<div class="et_pb_slide_description">
-							<h2 class="et_pb_slide_title"><a href="https://www.noovle.com/it/societa-consulenza-ict-cloud">Innovare è semplice</a></h2>
-				<div class="et_pb_slide_content"> Noovle può supportarti nella scelta e nell&#8217;adozione di tecnologie Cloud e piattaforme per incrementare produttività ed efficienza </div>
-							<div class="et_pb_button_wrapper"><a href="https://www.noovle.com/it/societa-consulenza-ict-cloud" class="et_pb_more_button et_pb_button">Perchè Noovle?</a></div>
-						</div> <!-- .et_pb_slide_description -->
-					</div>
-				</div> <!-- .et_pb_container -->
-				
-			</div> <!-- .et_pb_slide -->
-			<div class="et_pb_slide et_pb_bg_layout_dark et_pb_media_alignment_center et_pb_slide_1">
-				
-				
-				<div class="et_pb_container clearfix">
-					<div class="et_pb_slider_container_inner">
-						
-						<div class="et_pb_slide_description">
-							<h2 class="et_pb_slide_title"><a href="https://www.noovle.com/it/emilio-chatbot-noovle/">EMIL.IO</a></h2>
-				<div class="et_pb_slide_content"><h2>Il ChatBot su misura per te</h2></div>
-							<div class="et_pb_button_wrapper"><a href="https://www.noovle.com/it/emilio-chatbot-noovle/" class="et_pb_more_button et_pb_button">Scopri di più</a></div>
-						</div> <!-- .et_pb_slide_description -->
-					</div>
-				</div> <!-- .et_pb_container -->
-				
-			</div> <!-- .et_pb_slide -->
-			<div class="et_pb_slide et_pb_slide_with_image et_pb_bg_layout_light et_pb_media_alignment_center et_pb_slide_2">
-				
-				
-				<div class="et_pb_container clearfix">
-					<div class="et_pb_slider_container_inner">
-						<div class="et_pb_slide_image"><img src="https://www.noovle.com/it/wp-content/uploads/sites/2/2018/07/logo-skillsmatch-1.png" alt="" /></div>
-						<div class="et_pb_slide_description">
-							<h2 class="et_pb_slide_title"><a href="https://www.noovle.com/it/skillsmatch-intelligent-hr-automation-prodotto/">Skillsmatch</a></h2>
-				<div class="et_pb_slide_content"><h2>Intelligent HR Automation</h2>
-<h3>Intelligenza artificiale a supporto delle organizzazione e delle risorse umane</h3></div>
-							<div class="et_pb_button_wrapper"><a href="https://www.noovle.com/it/skillsmatch-intelligent-hr-automation-prodotto/" class="et_pb_more_button et_pb_button">Scopri di più</a></div>
-						</div> <!-- .et_pb_slide_description -->
-					</div>
-				</div> <!-- .et_pb_container -->
-				
-			</div> <!-- .et_pb_slide -->
-			<div class="et_pb_slide et_pb_slide_with_image et_pb_bg_layout_light et_pb_media_alignment_center et_pb_slide_3">
-				
-				
-				<div class="et_pb_container clearfix">
-					<div class="et_pb_slider_container_inner">
-						<div class="et_pb_slide_image"><img src="https://www.noovle.com/it/wp-content/uploads/sites/2/2018/06/unnamed-2.png" alt="" /></div>
-						<div class="et_pb_slide_description">
-							<h2 class="et_pb_slide_title"><a href="https://www.noovle.com/it/google-jamboard-chrome-devices/">Jamboard: visualizza le tue idee in modo nuovo e collaborativo</a></h2>
-				<div class="et_pb_slide_content"><h4>Noovle è l&#8217;unico Premier Partner Google Cloud abilitato alla distribuzione di Jamboard in Italia</h4></div>
-							<div class="et_pb_button_wrapper"><a href="https://www.noovle.com/it/google-jamboard-chrome-devices/" class="et_pb_more_button et_pb_button">Contattaci per una demo di prodotto</a></div>
-						</div> <!-- .et_pb_slide_description -->
-					</div>
-				</div> <!-- .et_pb_container -->
-				
-			</div> <!-- .et_pb_slide -->
-			<div class="et_pb_slide et_pb_bg_layout_dark et_pb_media_alignment_center et_pb_slide_4">
-				
-				
-				<div class="et_pb_container clearfix">
-					<div class="et_pb_slider_container_inner">
-						
-						<div class="et_pb_slide_description">
-							<h2 class="et_pb_slide_title"><a href="https://www.noovle.com/it/trustapp">Desideri gestire la tua Posta Elettronica Certificata direttamente da Gmail? Ora puoi. Con trustApp!</a></h2>
-				<div class="et_pb_slide_content"></div>
-							<div class="et_pb_button_wrapper"><a href="https://www.noovle.com/it/trustapp" class="et_pb_more_button et_pb_button">FREE TRIAL</a></div>
-						</div> <!-- .et_pb_slide_description -->
-					</div>
-				</div> <!-- .et_pb_container -->
-				
-			</div> <!-- .et_pb_slide -->
-			<div class="et_pb_slide et_pb_slide_with_image et_pb_bg_layout_dark et_pb_media_alignment_center et_pb_slide_5">
-				
-				
-				<div class="et_pb_container clearfix">
-					<div class="et_pb_slider_container_inner">
-						<div class="et_pb_slide_image"><img src="https://www.noovle.com/it/wp-content/uploads/sites/2/2014/11/logo-web-white-02-1.png" alt="" /></div>
-						<div class="et_pb_slide_description">
-							<h2 class="et_pb_slide_title"><a href="http://www.progettocrescitadigitale.com/">Crescita Digitale</a></h2>
-				<div class="et_pb_slide_content"><h5>Il network che mette in circolo le idee</h5></div>
-							<div class="et_pb_button_wrapper"><a href="http://www.progettocrescitadigitale.com/" class="et_pb_more_button et_pb_button">Visita il blog</a></div>
-						</div> <!-- .et_pb_slide_description -->
-					</div>
-				</div> <!-- .et_pb_container -->
-				
-			</div> <!-- .et_pb_slide -->
-			
-				</div> <!-- .et_pb_slides -->
-				
-			</div> <!-- .et_pb_slider -->
-			
-				
-				
-			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_1 et_section_regular et_section_transparent">
-				
-				
-				
-				
-					<div class=" et_pb_row et_pb_row_0">
-				<div class="et_pb_column et_pb_column_4_4  et_pb_column_0 et_pb_css_mix_blend_mode_passthrough et-last-child">
-				
-				
-				<div class="et_pb_module et_pb_image et_pb_image_0 et_always_center_on_mobile">
-				
-				
-				<span class="et_pb_image_wrap"><img src="https://www.noovle.com/it/wp-content/uploads/sites/2/2018/07/GRAFICO-04.png" alt="" /></span>
-			</div><div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_center  et_pb_text_0">
-				
-				
-				<div class="et_pb_text_inner">
-					<h3>I nostri punti di forza</h3>
-				</div>
-			</div> <!-- .et_pb_text -->
-			</div> <!-- .et_pb_column -->
-				
-				
-			</div> <!-- .et_pb_row --><div class=" et_pb_row et_pb_row_1">
-				<div class="et_pb_column et_pb_column_1_4  et_pb_column_1 et_pb_css_mix_blend_mode_passthrough">
-				
-				
-				<div class="et_pb_blurb et_pb_module et_pb_bg_layout_light et_pb_text_align_center  et_pb_blurb_0 et_pb_blurb_position_top">
-				
-				
-				<div class="et_pb_blurb_content">
-					<div class="et_pb_main_blurb_image"><a href="https://www.noovle.com/it/contatti/"><span class="et_pb_image_wrap"><span class="et-pb-icon et-waypoint et_pb_animation_top et-pb-icon-circle et-pb-icon-circle-border" style="color: #78b545; background-color: #ffffff; border-color: #78b545;">&#x7a;</span></span></a></div>
-					<div class="et_pb_blurb_container">
-						<h4 class="et_pb_module_header"><a href="https://www.noovle.com/it/contatti/">Ascoltare le esigenze del cliente</a></h4>
-						<div class="et_pb_blurb_description">
-							
-						</div><!-- .et_pb_blurb_description -->
-					</div>
-				</div> <!-- .et_pb_blurb_content -->
-			</div> <!-- .et_pb_blurb -->
-			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_4  et_pb_column_2 et_pb_css_mix_blend_mode_passthrough">
-				
-				
-				<div class="et_pb_blurb et_pb_module et_pb_bg_layout_light et_pb_text_align_center  et_pb_blurb_1 et_pb_blurb_position_top">
-				
-				
-				<div class="et_pb_blurb_content">
-					<div class="et_pb_main_blurb_image"><a href="https://www.noovle.com/it/partner/"><span class="et_pb_image_wrap"><span class="et-pb-icon et-waypoint et_pb_animation_top et-pb-icon-circle et-pb-icon-circle-border" style="color: #e9443a; background-color: #ffffff; border-color: #e9443a;">&#xe072;</span></span></a></div>
-					<div class="et_pb_blurb_container">
-						<h4 class="et_pb_module_header"><a href="https://www.noovle.com/it/partner/">Scegliere le tecnologie migliori per la soluzione proposta</a></h4>
-						<div class="et_pb_blurb_description">
-							
-						</div><!-- .et_pb_blurb_description -->
-					</div>
-				</div> <!-- .et_pb_blurb_content -->
-			</div> <!-- .et_pb_blurb -->
-			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_4  et_pb_column_3 et_pb_css_mix_blend_mode_passthrough">
-				
-				
-				<div class="et_pb_blurb et_pb_module et_pb_bg_layout_light et_pb_text_align_center  et_pb_blurb_2 et_pb_blurb_position_top">
-				
-				
-				<div class="et_pb_blurb_content">
-					<div class="et_pb_main_blurb_image"><a href="https://www.noovle.com/it/casi-di-successo/"><span class="et_pb_image_wrap"><span class="et-pb-icon et-waypoint et_pb_animation_top et-pb-icon-circle et-pb-icon-circle-border" style="color: #3462ac; background-color: #ffffff; border-color: #3462ac;">&#xe038;</span></span></a></div>
-					<div class="et_pb_blurb_container">
-						<h4 class="et_pb_module_header"><a href="https://www.noovle.com/it/casi-di-successo/">Adattare le strutture native dell’organizzazione integrandole con sistemi innovativi</a></h4>
-						<div class="et_pb_blurb_description">
-							
-						</div><!-- .et_pb_blurb_description -->
-					</div>
-				</div> <!-- .et_pb_blurb_content -->
-			</div> <!-- .et_pb_blurb -->
-			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_4  et_pb_column_4 et_pb_css_mix_blend_mode_passthrough et-last-child">
-				
-				
-				<div class="et_pb_blurb et_pb_module et_pb_bg_layout_light et_pb_text_align_center  et_pb_blurb_3 et_pb_blurb_position_top">
-				
-				
-				<div class="et_pb_blurb_content">
-					<div class="et_pb_main_blurb_image"><a href="https://www.noovle.com/it/webinar-risorse/"><span class="et_pb_image_wrap"><span class="et-pb-icon et-waypoint et_pb_animation_top et-pb-icon-circle et-pb-icon-circle-border" style="color: #f9ce20; background-color: #ffffff; border-color: #f9ce20;">&#xe06e;</span></span></a></div>
-					<div class="et_pb_blurb_container">
-						<h4 class="et_pb_module_header"><a href="https://www.noovle.com/it/webinar-risorse/">Guidare il cliente nel percorso verso l’innovazione</a></h4>
-						<div class="et_pb_blurb_description">
-							
-						</div><!-- .et_pb_blurb_description -->
-					</div>
-				</div> <!-- .et_pb_blurb_content -->
-			</div> <!-- .et_pb_blurb -->
-			</div> <!-- .et_pb_column -->
-				
-				
-			</div> <!-- .et_pb_row --><div class=" et_pb_row et_pb_row_2">
-				<div class="et_pb_column et_pb_column_4_4  et_pb_column_5 et_pb_css_mix_blend_mode_passthrough et-last-child">
-				
-				
-				<div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_center  et_pb_text_1">
-				
-				
-				<div class="et_pb_text_inner">
-					<p>&nbsp;</p>
-<h2><span style="font-weight: 400">La mission di Noovle è quella di accompagnare le organizzazioni nella trasformazione verso un modello di Smart Enterprise.</span></h2>
-<h3><span style="font-weight: 400">Sviluppare progetti di Trasformazione Digitale significa modellare soluzioni complesse tramite l’aggregazione di esperienze e capacità diverse.</span></h3>
-				</div>
-			</div> <!-- .et_pb_text -->
-			</div> <!-- .et_pb_column -->
-				
-				
-			</div> <!-- .et_pb_row -->
-				
-				
-			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_2 et_pb_with_background et_section_regular">
-				
-				
-				
-				
-					<div class=" et_pb_row et_pb_row_3">
-				<div class="et_pb_column et_pb_column_4_4  et_pb_column_6 et_pb_css_mix_blend_mode_passthrough et-last-child">
-				
-				
-				<div class="et_pb_text et_pb_module et_pb_bg_layout_dark et_pb_text_align_center  et_pb_text_2">
-				
-				
-				<div class="et_pb_text_inner">
-					<h2>Casi di successo</h2>
-				</div>
-			</div> <!-- .et_pb_text -->
-			</div> <!-- .et_pb_column -->
-				
-				
-			</div> <!-- .et_pb_row --><div class=" et_pb_row et_pb_row_4">
-				<div class="et_pb_column et_pb_column_4_4  et_pb_column_7 et_pb_css_mix_blend_mode_passthrough et-last-child">
-				
-				
-				<div class="et_pb_portfolio_grid clearfix et_pb_module et_pb_bg_layout_dark  et_pb_portfolio_0">
-				<div class="et_pb_ajax_pagination_container">
-					
-					
-					<div class="et_pb_portfolio_grid_items">
-										<div id="post-14826" class="post-14826 project type-project status-publish has-post-thumbnail hentry project_category-casi-di-successo project_category-chrome-device project_category-educational project_category-g-suite et_pb_portfolio_item et_pb_grid_item">
-
-										<a href="https://www.noovle.com/it/project/scuole-faes/" title="Scuole FAES">
-													<span class="et_portfolio_image">
-								<img src="https://www.noovle.com/it/wp-content/uploads/sites/2/2018/09/Faes-400x284.jpg" alt="Scuole FAES" width="400" height="284" />
-								<span class="et_overlay"></span>							</span>
-											</a>
-					
-											<h2 class="et_pb_module_header">
-							<a href="https://www.noovle.com/it/project/scuole-faes/" title="Scuole FAES">
-								Scuole FAES							</a>
-						</h2>
-					
-
-					
-				</div><!-- .et_pb_portfolio_item -->
-								<div id="post-14724" class="post-14724 project type-project status-publish has-post-thumbnail hentry project_category-casi-di-successo project_category-finance project_category-google-cloud-platform project_category-liferay project_category-settori et_pb_portfolio_item et_pb_grid_item">
-
-										<a href="https://www.noovle.com/it/project/muse-fintech/" title="Muse Fintech">
-													<span class="et_portfolio_image">
-								<img src="https://www.noovle.com/it/wp-content/uploads/sites/2/2018/08/Muse-400x284.jpg" alt="Muse Fintech" width="400" height="284" />
-								<span class="et_overlay"></span>							</span>
-											</a>
-					
-											<h2 class="et_pb_module_header">
-							<a href="https://www.noovle.com/it/project/muse-fintech/" title="Muse Fintech">
-								Muse Fintech							</a>
-						</h2>
-					
-
-					
-				</div><!-- .et_pb_portfolio_item -->
-								<div id="post-14511" class="post-14511 project type-project status-publish has-post-thumbnail hentry project_category-casi-di-successo project_category-google-cloud-platform project_category-health project_category-machine-learning et_pb_portfolio_item et_pb_grid_item">
-
-										<a href="https://www.noovle.com/it/project/arsenal-it-centro-veneto-ricerca-e-innovazione-per-la-sanita-digitale/" title="Arsenàl.it | Centro Veneto Ricerca e Innovazione per la Sanità Digitale">
-													<span class="et_portfolio_image">
-								<img src="https://www.noovle.com/it/wp-content/uploads/sites/2/2018/07/Arsenal-1-400x284.jpg" alt="Arsenàl.it | Centro Veneto Ricerca e Innovazione per la Sanità Digitale" width="400" height="284" />
-								<span class="et_overlay"></span>							</span>
-											</a>
-					
-											<h2 class="et_pb_module_header">
-							<a href="https://www.noovle.com/it/project/arsenal-it-centro-veneto-ricerca-e-innovazione-per-la-sanita-digitale/" title="Arsenàl.it | Centro Veneto Ricerca e Innovazione per la Sanità Digitale">
-								Arsenàl.it | Centro Veneto Ricerca e Innovazione per la Sanità Digitale							</a>
-						</h2>
-					
-
-					
-				</div><!-- .et_pb_portfolio_item -->
-								<div id="post-13955" class="post-13955 project type-project status-publish has-post-thumbnail hentry project_category-casi-di-successo project_category-g-suite project_category-google-cloud project_category-salesforce et_pb_portfolio_item et_pb_grid_item">
-
-										<a href="https://www.noovle.com/it/project/webidoo/" title="Webidoo">
-													<span class="et_portfolio_image">
-								<img src="https://www.noovle.com/it/wp-content/uploads/sites/2/2018/06/Webidoo-400x284.jpg" alt="Webidoo" width="400" height="284" />
-								<span class="et_overlay"></span>							</span>
-											</a>
-					
-											<h2 class="et_pb_module_header">
-							<a href="https://www.noovle.com/it/project/webidoo/" title="Webidoo">
-								Webidoo							</a>
-						</h2>
-					
-
-					
-				</div><!-- .et_pb_portfolio_item -->
-				
-					</div>
-					
-				</div>
-			</div> <!-- .et_pb_portfolio --><div class="et_pb_promo et_pb_module et_pb_bg_layout_dark et_pb_text_align_center  et_pb_cta_0 et_pb_no_bg">
-				
-				
-				<div class="et_pb_promo_description">
-					
-					
-				</div>
-				<div class="et_pb_button_wrapper"><a class="et_pb_promo_button et_pb_button" href="https://www.noovle.com/it/casi-di-successo/">SCOPRI LE STORIE DI SUCCESSO DI NOOVLE</a></div>
-			</div>
-			</div> <!-- .et_pb_column -->
-				
-				
-			</div> <!-- .et_pb_row -->
-				
-				
-			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_3 et_pb_fullwidth_section et_section_regular">
-				
-				
-				
-				
-					<section class="et_pb_fullwidth_header et_pb_module et_pb_bg_layout_light et_pb_text_align_center  et_pb_fullwidth_header_0">
-				
-				
-				<div class="et_pb_fullwidth_header_container center">
-					<div class="header-content-container center">
-					<div class="header-content">
-						
-						<h1 class="et_pb_module_header">Dicono di noi</h1>
-						
-						<div class="et_pb_header_content_wrapper"></div>
-						
-					</div>
-				</div>
-					
-				</div>
-				<div class="et_pb_fullwidth_header_overlay"></div>
-				<div class="et_pb_fullwidth_header_scroll"></div>
-			</section><div class="et_pb_module et_pb_slider  et_pb_fullwidth_slider_1">
-				<div class="et_pb_slides">
-					<div class="et_pb_slide et_pb_slide_with_image et_pb_bg_layout_light et_pb_media_alignment_center et_pb_slide_6 et-pb-active-slide">
-				
-				
-				<div class="et_pb_container clearfix">
-					<div class="et_pb_slider_container_inner">
-						<div class="et_pb_slide_image"><img src="https://www.noovle.com/it/wp-content/uploads/sites/2/2015/12/9.png" alt="" /></div>
-						<div class="et_pb_slide_description">
-							
-				<div class="et_pb_slide_content"></div>
-							<div class="et_pb_button_wrapper"><a href="https://www.noovle.com/it/dicono-di-noi/" class="et_pb_more_button et_pb_button">Consulta l&#039;archivio</a></div>
-						</div> <!-- .et_pb_slide_description -->
-					</div>
-				</div> <!-- .et_pb_container -->
-				
-			</div> <!-- .et_pb_slide -->
-			<div class="et_pb_slide et_pb_slide_with_image et_pb_bg_layout_light et_pb_media_alignment_center et_pb_slide_7">
-				
-				
-				<div class="et_pb_container clearfix">
-					<div class="et_pb_slider_container_inner">
-						<div class="et_pb_slide_image"><img src="https://www.noovle.com/it/wp-content/uploads/sites/2/2018/11/Corriere_della_Sera.svg_.png" alt="" /></div>
-						<div class="et_pb_slide_description">
-							
-				<div class="et_pb_slide_content"></div>
-							<div class="et_pb_button_wrapper"><a href="https://www.noovle.com/it/dicono-di-noi/" class="et_pb_more_button et_pb_button">Consulta l&#039;archivio</a></div>
-						</div> <!-- .et_pb_slide_description -->
-					</div>
-				</div> <!-- .et_pb_container -->
-				
-			</div> <!-- .et_pb_slide -->
-			<div class="et_pb_slide et_pb_slide_with_image et_pb_bg_layout_light et_pb_media_alignment_center et_pb_slide_8">
-				
-				
-				<div class="et_pb_container clearfix">
-					<div class="et_pb_slider_container_inner">
-						<div class="et_pb_slide_image"><img src="https://www.noovle.com/it/wp-content/uploads/sites/2/2018/11/IlSole24Ore.png" alt="" /></div>
-						<div class="et_pb_slide_description">
-							
-				<div class="et_pb_slide_content"></div>
-							<div class="et_pb_button_wrapper"><a href="https://www.noovle.com/it/dicono-di-noi/" class="et_pb_more_button et_pb_button">Consulta l&#039;archivio</a></div>
-						</div> <!-- .et_pb_slide_description -->
-					</div>
-				</div> <!-- .et_pb_container -->
-				
-			</div> <!-- .et_pb_slide -->
-			<div class="et_pb_slide et_pb_slide_with_image et_pb_bg_layout_light et_pb_media_alignment_center et_pb_slide_9">
-				
-				
-				<div class="et_pb_container clearfix">
-					<div class="et_pb_slider_container_inner">
-						<div class="et_pb_slide_image"><img src="https://www.noovle.com/it/wp-content/uploads/sites/2/2018/11/1280px-Sky_TG24_-_Logo_2018.svg_.png" alt="" /></div>
-						<div class="et_pb_slide_description">
-							
-				<div class="et_pb_slide_content"></div>
-							<div class="et_pb_button_wrapper"><a href="https://www.noovle.com/it/dicono-di-noi/" class="et_pb_more_button et_pb_button">Consulta l&#039;archivio</a></div>
-						</div> <!-- .et_pb_slide_description -->
-					</div>
-				</div> <!-- .et_pb_container -->
-				
-			</div> <!-- .et_pb_slide -->
-			<div class="et_pb_slide et_pb_slide_with_image et_pb_bg_layout_light et_pb_media_alignment_center et_pb_slide_10">
-				
-				
-				<div class="et_pb_container clearfix">
-					<div class="et_pb_slider_container_inner">
-						<div class="et_pb_slide_image"><img src="https://www.noovle.com/it/wp-content/uploads/sites/2/2015/12/28.png" alt="" /></div>
-						<div class="et_pb_slide_description">
-							
-				<div class="et_pb_slide_content"></div>
-							<div class="et_pb_button_wrapper"><a href="https://www.noovle.com/it/dicono-di-noi/" class="et_pb_more_button et_pb_button">Consulta l&#039;archivio</a></div>
-						</div> <!-- .et_pb_slide_description -->
-					</div>
-				</div> <!-- .et_pb_container -->
-				
-			</div> <!-- .et_pb_slide -->
-			<div class="et_pb_slide et_pb_slide_with_image et_pb_bg_layout_light et_pb_media_alignment_center et_pb_slide_11">
-				
-				
-				<div class="et_pb_container clearfix">
-					<div class="et_pb_slider_container_inner">
-						<div class="et_pb_slide_image"><img src="https://www.noovle.com/it/wp-content/uploads/sites/2/2018/11/ANSA_logo.svg_.png" alt="" /></div>
-						<div class="et_pb_slide_description">
-							
-				<div class="et_pb_slide_content"></div>
-							<div class="et_pb_button_wrapper"><a href="https://www.noovle.com/it/dicono-di-noi/" class="et_pb_more_button et_pb_button">Consulta l&#039;archivio</a></div>
-						</div> <!-- .et_pb_slide_description -->
-					</div>
-				</div> <!-- .et_pb_container -->
-				
-			</div> <!-- .et_pb_slide -->
-			<div class="et_pb_slide et_pb_slide_with_image et_pb_bg_layout_light et_pb_media_alignment_center et_pb_slide_12">
-				
-				
-				<div class="et_pb_container clearfix">
-					<div class="et_pb_slider_container_inner">
-						<div class="et_pb_slide_image"><img src="https://www.noovle.com/it/wp-content/uploads/sites/2/2015/12/30.png" alt="" /></div>
-						<div class="et_pb_slide_description">
-							
-				<div class="et_pb_slide_content"></div>
-							<div class="et_pb_button_wrapper"><a href="https://www.noovle.com/it/dicono-di-noi/" class="et_pb_more_button et_pb_button">Consulta l&#039;archivio</a></div>
-						</div> <!-- .et_pb_slide_description -->
-					</div>
-				</div> <!-- .et_pb_container -->
-				
-			</div> <!-- .et_pb_slide -->
-			<div class="et_pb_slide et_pb_slide_with_image et_pb_bg_layout_light et_pb_media_alignment_center et_pb_slide_13">
-				
-				
-				<div class="et_pb_container clearfix">
-					<div class="et_pb_slider_container_inner">
-						<div class="et_pb_slide_image"><img src="https://www.noovle.com/it/wp-content/uploads/sites/2/2018/11/Digital360-Network.png" alt="" /></div>
-						<div class="et_pb_slide_description">
-							
-				<div class="et_pb_slide_content"></div>
-							<div class="et_pb_button_wrapper"><a href="https://www.noovle.com/it/dicono-di-noi/" class="et_pb_more_button et_pb_button">Consulta l&#039;archivio</a></div>
-						</div> <!-- .et_pb_slide_description -->
-					</div>
-				</div> <!-- .et_pb_container -->
-				
-			</div> <!-- .et_pb_slide -->
-			<div class="et_pb_slide et_pb_slide_with_image et_pb_bg_layout_light et_pb_media_alignment_center et_pb_slide_14">
-				
-				
-				<div class="et_pb_container clearfix">
-					<div class="et_pb_slider_container_inner">
-						<div class="et_pb_slide_image"><img src="https://www.noovle.com/it/wp-content/uploads/sites/2/2015/12/17.png" alt="" /></div>
-						<div class="et_pb_slide_description">
-							
-				<div class="et_pb_slide_content"></div>
-							<div class="et_pb_button_wrapper"><a href="https://www.noovle.com/it/dicono-di-noi/" class="et_pb_more_button et_pb_button">Consulta l&#039;archivio</a></div>
-						</div> <!-- .et_pb_slide_description -->
-					</div>
-				</div> <!-- .et_pb_container -->
-				
-			</div> <!-- .et_pb_slide -->
-			<div class="et_pb_slide et_pb_slide_with_image et_pb_bg_layout_light et_pb_media_alignment_center et_pb_slide_15">
-				
-				
-				<div class="et_pb_container clearfix">
-					<div class="et_pb_slider_container_inner">
-						<div class="et_pb_slide_image"><img src="https://www.noovle.com/it/wp-content/uploads/sites/2/2015/12/5-3.png" alt="" /></div>
-						<div class="et_pb_slide_description">
-							
-				<div class="et_pb_slide_content"></div>
-							<div class="et_pb_button_wrapper"><a href="https://www.noovle.com/it/dicono-di-noi/" class="et_pb_more_button et_pb_button">Consulta l&#039;archivio</a></div>
-						</div> <!-- .et_pb_slide_description -->
-					</div>
-				</div> <!-- .et_pb_container -->
-				
-			</div> <!-- .et_pb_slide -->
-			<div class="et_pb_slide et_pb_slide_with_image et_pb_bg_layout_light et_pb_media_alignment_center et_pb_slide_16">
-				
-				
-				<div class="et_pb_container clearfix">
-					<div class="et_pb_slider_container_inner">
-						<div class="et_pb_slide_image"><img src="https://www.noovle.com/it/wp-content/uploads/sites/2/2015/12/8.png" alt="" /></div>
-						<div class="et_pb_slide_description">
-							
-				<div class="et_pb_slide_content"></div>
-							<div class="et_pb_button_wrapper"><a href="https://www.noovle.com/it/dicono-di-noi/" class="et_pb_more_button et_pb_button">Consulta l&#039;archivio</a></div>
-						</div> <!-- .et_pb_slide_description -->
-					</div>
-				</div> <!-- .et_pb_container -->
-				
-			</div> <!-- .et_pb_slide -->
-			<div class="et_pb_slide et_pb_slide_with_image et_pb_bg_layout_light et_pb_media_alignment_center et_pb_slide_17">
-				
-				
-				<div class="et_pb_container clearfix">
-					<div class="et_pb_slider_container_inner">
-						<div class="et_pb_slide_image"><img src="https://www.noovle.com/it/wp-content/uploads/sites/2/2015/12/16.png" alt="" /></div>
-						<div class="et_pb_slide_description">
-							
-				<div class="et_pb_slide_content"></div>
-							<div class="et_pb_button_wrapper"><a href="https://www.noovle.com/it/dicono-di-noi/" class="et_pb_more_button et_pb_button">Consulta l&#039;archivio</a></div>
-						</div> <!-- .et_pb_slide_description -->
-					</div>
-				</div> <!-- .et_pb_container -->
-				
-			</div> <!-- .et_pb_slide -->
-			<div class="et_pb_slide et_pb_slide_with_image et_pb_bg_layout_light et_pb_media_alignment_center et_pb_slide_18">
-				
-				
-				<div class="et_pb_container clearfix">
-					<div class="et_pb_slider_container_inner">
-						<div class="et_pb_slide_image"><img src="https://www.noovle.com/it/wp-content/uploads/sites/2/2015/12/17.png" alt="" /></div>
-						<div class="et_pb_slide_description">
-							
-				<div class="et_pb_slide_content"></div>
-							<div class="et_pb_button_wrapper"><a href="https://www.noovle.com/it/dicono-di-noi/" class="et_pb_more_button et_pb_button">Consulta l&#039;archivio</a></div>
-						</div> <!-- .et_pb_slide_description -->
-					</div>
-				</div> <!-- .et_pb_container -->
-				
-			</div> <!-- .et_pb_slide -->
-			<div class="et_pb_slide et_pb_slide_with_image et_pb_bg_layout_light et_pb_media_alignment_center et_pb_slide_19">
-				
-				
-				<div class="et_pb_container clearfix">
-					<div class="et_pb_slider_container_inner">
-						<div class="et_pb_slide_image"><img src="https://www.noovle.com/it/wp-content/uploads/sites/2/2015/12/4-3.png" alt="" /></div>
-						<div class="et_pb_slide_description">
-							
-				<div class="et_pb_slide_content"></div>
-							<div class="et_pb_button_wrapper"><a href="https://www.noovle.com/it/dicono-di-noi/" class="et_pb_more_button et_pb_button">Consulta l&#039;archivio</a></div>
-						</div> <!-- .et_pb_slide_description -->
-					</div>
-				</div> <!-- .et_pb_container -->
-				
-			</div> <!-- .et_pb_slide -->
-			<div class="et_pb_slide et_pb_slide_with_image et_pb_bg_layout_light et_pb_media_alignment_center et_pb_slide_20">
-				
-				
-				<div class="et_pb_container clearfix">
-					<div class="et_pb_slider_container_inner">
-						<div class="et_pb_slide_image"><img src="https://www.noovle.com/it/wp-content/uploads/sites/2/2015/12/2-3.png" alt="" /></div>
-						<div class="et_pb_slide_description">
-							
-				<div class="et_pb_slide_content"></div>
-							<div class="et_pb_button_wrapper"><a href="https://www.noovle.com/it/dicono-di-noi/" class="et_pb_more_button et_pb_button">Consulta l&#039;archivio</a></div>
-						</div> <!-- .et_pb_slide_description -->
-					</div>
-				</div> <!-- .et_pb_container -->
-				
-			</div> <!-- .et_pb_slide -->
-			<div class="et_pb_slide et_pb_slide_with_image et_pb_bg_layout_light et_pb_media_alignment_center et_pb_slide_21">
-				
-				
-				<div class="et_pb_container clearfix">
-					<div class="et_pb_slider_container_inner">
-						<div class="et_pb_slide_image"><img src="https://www.noovle.com/it/wp-content/uploads/sites/2/2015/12/27.png" alt="" /></div>
-						<div class="et_pb_slide_description">
-							
-				<div class="et_pb_slide_content"></div>
-							<div class="et_pb_button_wrapper"><a href="https://www.noovle.com/it/dicono-di-noi/" class="et_pb_more_button et_pb_button">Consulta l&#039;archivio</a></div>
-						</div> <!-- .et_pb_slide_description -->
-					</div>
-				</div> <!-- .et_pb_container -->
-				
-			</div> <!-- .et_pb_slide -->
-			<div class="et_pb_slide et_pb_slide_with_image et_pb_bg_layout_light et_pb_media_alignment_center et_pb_slide_22">
-				
-				
-				<div class="et_pb_container clearfix">
-					<div class="et_pb_slider_container_inner">
-						<div class="et_pb_slide_image"><img src="https://www.noovle.com/it/wp-content/uploads/sites/2/2015/12/24.png" alt="" /></div>
-						<div class="et_pb_slide_description">
-							
-				<div class="et_pb_slide_content"></div>
-							<div class="et_pb_button_wrapper"><a href="https://www.noovle.com/it/dicono-di-noi/" class="et_pb_more_button et_pb_button">Consulta l&#039;archivio</a></div>
-						</div> <!-- .et_pb_slide_description -->
-					</div>
-				</div> <!-- .et_pb_container -->
-				
-			</div> <!-- .et_pb_slide -->
-			<div class="et_pb_slide et_pb_slide_with_image et_pb_bg_layout_light et_pb_media_alignment_center et_pb_slide_23">
-				
-				
-				<div class="et_pb_container clearfix">
-					<div class="et_pb_slider_container_inner">
-						<div class="et_pb_slide_image"><img src="https://www.noovle.com/it/wp-content/uploads/sites/2/2015/12/13.png" alt="" /></div>
-						<div class="et_pb_slide_description">
-							
-				<div class="et_pb_slide_content"></div>
-							<div class="et_pb_button_wrapper"><a href="https://www.noovle.com/it/dicono-di-noi/" class="et_pb_more_button et_pb_button">Consulta l&#039;archivio</a></div>
-						</div> <!-- .et_pb_slide_description -->
-					</div>
-				</div> <!-- .et_pb_container -->
-				
-			</div> <!-- .et_pb_slide -->
-			<div class="et_pb_slide et_pb_slide_with_image et_pb_bg_layout_light et_pb_media_alignment_center et_pb_slide_24">
-				
-				
-				<div class="et_pb_container clearfix">
-					<div class="et_pb_slider_container_inner">
-						<div class="et_pb_slide_image"><img src="https://www.noovle.com/it/wp-content/uploads/sites/2/2015/12/29.png" alt="" /></div>
-						<div class="et_pb_slide_description">
-							
-				<div class="et_pb_slide_content"></div>
-							<div class="et_pb_button_wrapper"><a href="https://www.noovle.com/it/dicono-di-noi/" class="et_pb_more_button et_pb_button">Consulta l&#039;archivio</a></div>
-						</div> <!-- .et_pb_slide_description -->
-					</div>
-				</div> <!-- .et_pb_container -->
-				
-			</div> <!-- .et_pb_slide -->
-			<div class="et_pb_slide et_pb_slide_with_image et_pb_bg_layout_light et_pb_media_alignment_center et_pb_slide_25">
-				
-				
-				<div class="et_pb_container clearfix">
-					<div class="et_pb_slider_container_inner">
-						<div class="et_pb_slide_image"><img src="https://www.noovle.com/it/wp-content/uploads/sites/2/2015/12/26.png" alt="" /></div>
-						<div class="et_pb_slide_description">
-							
-				<div class="et_pb_slide_content"></div>
-							<div class="et_pb_button_wrapper"><a href="https://www.noovle.com/it/dicono-di-noi/" class="et_pb_more_button et_pb_button">Consulta l&#039;archivio</a></div>
-						</div> <!-- .et_pb_slide_description -->
-					</div>
-				</div> <!-- .et_pb_container -->
-				
-			</div> <!-- .et_pb_slide -->
-			<div class="et_pb_slide et_pb_slide_with_image et_pb_bg_layout_light et_pb_media_alignment_center et_pb_slide_26">
-				
-				
-				<div class="et_pb_container clearfix">
-					<div class="et_pb_slider_container_inner">
-						<div class="et_pb_slide_image"><img src="https://www.noovle.com/it/wp-content/uploads/sites/2/2015/12/1.png" alt="" /></div>
-						<div class="et_pb_slide_description">
-							
-				<div class="et_pb_slide_content"></div>
-							<div class="et_pb_button_wrapper"><a href="https://www.noovle.com/it/dicono-di-noi/" class="et_pb_more_button et_pb_button">Consulta l&#039;archivio</a></div>
-						</div> <!-- .et_pb_slide_description -->
-					</div>
-				</div> <!-- .et_pb_container -->
-				
-			</div> <!-- .et_pb_slide -->
-			<div class="et_pb_slide et_pb_slide_with_image et_pb_bg_layout_light et_pb_media_alignment_center et_pb_slide_27">
-				
-				
-				<div class="et_pb_container clearfix">
-					<div class="et_pb_slider_container_inner">
-						<div class="et_pb_slide_image"><img src="https://www.noovle.com/it/wp-content/uploads/sites/2/2015/12/mediakey-logo1.jpg" alt="" /></div>
-						<div class="et_pb_slide_description">
-							
-				<div class="et_pb_slide_content"></div>
-							<div class="et_pb_button_wrapper"><a href="https://www.noovle.com/it/dicono-di-noi/" class="et_pb_more_button et_pb_button">Consulta l&#039;archivio</a></div>
-						</div> <!-- .et_pb_slide_description -->
-					</div>
-				</div> <!-- .et_pb_container -->
-				
-			</div> <!-- .et_pb_slide -->
-			<div class="et_pb_slide et_pb_slide_with_image et_pb_bg_layout_light et_pb_media_alignment_center et_pb_slide_28">
-				
-				
-				<div class="et_pb_container clearfix">
-					<div class="et_pb_slider_container_inner">
-						<div class="et_pb_slide_image"><img src="https://www.noovle.com/it/wp-content/uploads/sites/2/2015/12/4.png" alt="" /></div>
-						<div class="et_pb_slide_description">
-							
-				<div class="et_pb_slide_content"></div>
-							<div class="et_pb_button_wrapper"><a href="https://www.noovle.com/it/dicono-di-noi/" class="et_pb_more_button et_pb_button">Consulta l&#039;archivio</a></div>
-						</div> <!-- .et_pb_slide_description -->
-					</div>
-				</div> <!-- .et_pb_container -->
-				
-			</div> <!-- .et_pb_slide -->
-			<div class="et_pb_slide et_pb_slide_with_image et_pb_bg_layout_light et_pb_media_alignment_center et_pb_slide_29">
-				
-				
-				<div class="et_pb_container clearfix">
-					<div class="et_pb_slider_container_inner">
-						<div class="et_pb_slide_image"><img src="https://www.noovle.com/it/wp-content/uploads/sites/2/2015/12/18.png" alt="" /></div>
-						<div class="et_pb_slide_description">
-							
-				<div class="et_pb_slide_content"></div>
-							<div class="et_pb_button_wrapper"><a href="https://www.noovle.com/it/dicono-di-noi/" class="et_pb_more_button et_pb_button">Consulta l&#039;archivio</a></div>
-						</div> <!-- .et_pb_slide_description -->
-					</div>
-				</div> <!-- .et_pb_container -->
-				
-			</div> <!-- .et_pb_slide -->
-			<div class="et_pb_slide et_pb_slide_with_image et_pb_bg_layout_light et_pb_media_alignment_center et_pb_slide_30">
-				
-				
-				<div class="et_pb_container clearfix">
-					<div class="et_pb_slider_container_inner">
-						<div class="et_pb_slide_image"><img src="https://www.noovle.com/it/wp-content/uploads/sites/2/2015/12/1-2.png" alt="" /></div>
-						<div class="et_pb_slide_description">
-							
-				<div class="et_pb_slide_content"></div>
-							<div class="et_pb_button_wrapper"><a href="https://www.noovle.com/it/dicono-di-noi/" class="et_pb_more_button et_pb_button">Consulta l&#039;archivio</a></div>
-						</div> <!-- .et_pb_slide_description -->
-					</div>
-				</div> <!-- .et_pb_container -->
-				
-			</div> <!-- .et_pb_slide -->
-			<div class="et_pb_slide et_pb_slide_with_image et_pb_bg_layout_light et_pb_media_alignment_center et_pb_slide_31">
-				
-				
-				<div class="et_pb_container clearfix">
-					<div class="et_pb_slider_container_inner">
-						<div class="et_pb_slide_image"><img src="https://www.noovle.com/it/wp-content/uploads/sites/2/2015/12/22.png" alt="" /></div>
-						<div class="et_pb_slide_description">
-							
-				<div class="et_pb_slide_content"></div>
-							<div class="et_pb_button_wrapper"><a href="https://www.noovle.com/it/dicono-di-noi/" class="et_pb_more_button et_pb_button">Consulta l&#039;archivio</a></div>
-						</div> <!-- .et_pb_slide_description -->
-					</div>
-				</div> <!-- .et_pb_container -->
-				
-			</div> <!-- .et_pb_slide -->
-			<div class="et_pb_slide et_pb_slide_with_image et_pb_bg_layout_light et_pb_media_alignment_center et_pb_slide_32">
-				
-				
-				<div class="et_pb_container clearfix">
-					<div class="et_pb_slider_container_inner">
-						<div class="et_pb_slide_image"><img src="https://www.noovle.com/it/wp-content/uploads/sites/2/2015/12/15.png" alt="" /></div>
-						<div class="et_pb_slide_description">
-							
-				<div class="et_pb_slide_content"></div>
-							<div class="et_pb_button_wrapper"><a href="https://www.noovle.com/it/dicono-di-noi/" class="et_pb_more_button et_pb_button">Consulta l&#039;archivio</a></div>
-						</div> <!-- .et_pb_slide_description -->
-					</div>
-				</div> <!-- .et_pb_container -->
-				
-			</div> <!-- .et_pb_slide -->
-			<div class="et_pb_slide et_pb_slide_with_image et_pb_bg_layout_light et_pb_media_alignment_center et_pb_slide_33">
-				
-				
-				<div class="et_pb_container clearfix">
-					<div class="et_pb_slider_container_inner">
-						<div class="et_pb_slide_image"><img src="https://www.noovle.com/it/wp-content/uploads/sites/2/2015/12/21-1.png" alt="" /></div>
-						<div class="et_pb_slide_description">
-							
-				<div class="et_pb_slide_content"></div>
-							<div class="et_pb_button_wrapper"><a href="https://www.noovle.com/it/dicono-di-noi/" class="et_pb_more_button et_pb_button">Consulta l&#039;archivio</a></div>
-						</div> <!-- .et_pb_slide_description -->
-					</div>
-				</div> <!-- .et_pb_container -->
-				
-			</div> <!-- .et_pb_slide -->
-			<div class="et_pb_slide et_pb_slide_with_image et_pb_bg_layout_light et_pb_media_alignment_center et_pb_slide_34">
-				
-				
-				<div class="et_pb_container clearfix">
-					<div class="et_pb_slider_container_inner">
-						<div class="et_pb_slide_image"><img src="https://www.noovle.com/it/wp-content/uploads/sites/2/2015/12/11.png" alt="" /></div>
-						<div class="et_pb_slide_description">
-							
-				<div class="et_pb_slide_content"></div>
-							<div class="et_pb_button_wrapper"><a href="https://www.noovle.com/it/dicono-di-noi/" class="et_pb_more_button et_pb_button">Consulta l&#039;archivio</a></div>
-						</div> <!-- .et_pb_slide_description -->
-					</div>
-				</div> <!-- .et_pb_container -->
-				
-			</div> <!-- .et_pb_slide -->
-			<div class="et_pb_slide et_pb_slide_with_image et_pb_bg_layout_light et_pb_media_alignment_center et_pb_slide_35">
-				
-				
-				<div class="et_pb_container clearfix">
-					<div class="et_pb_slider_container_inner">
-						<div class="et_pb_slide_image"><img src="https://www.noovle.com/it/wp-content/uploads/sites/2/2015/12/19.png" alt="" /></div>
-						<div class="et_pb_slide_description">
-							
-				<div class="et_pb_slide_content"></div>
-							<div class="et_pb_button_wrapper"><a href="https://www.noovle.com/it/dicono-di-noi/" class="et_pb_more_button et_pb_button">Consulta l&#039;archivio</a></div>
-						</div> <!-- .et_pb_slide_description -->
-					</div>
-				</div> <!-- .et_pb_container -->
-				
-			</div> <!-- .et_pb_slide -->
-			<div class="et_pb_slide et_pb_slide_with_image et_pb_bg_layout_light et_pb_media_alignment_center et_pb_slide_36">
-				
-				
-				<div class="et_pb_container clearfix">
-					<div class="et_pb_slider_container_inner">
-						<div class="et_pb_slide_image"><img src="https://www.noovle.com/it/wp-content/uploads/sites/2/2015/12/26-1.png" alt="" /></div>
-						<div class="et_pb_slide_description">
-							
-				<div class="et_pb_slide_content"></div>
-							<div class="et_pb_button_wrapper"><a href="https://www.noovle.com/it/dicono-di-noi/" class="et_pb_more_button et_pb_button">Consulta l&#039;archivio</a></div>
-						</div> <!-- .et_pb_slide_description -->
-					</div>
-				</div> <!-- .et_pb_container -->
-				
-			</div> <!-- .et_pb_slide -->
-			<div class="et_pb_slide et_pb_slide_with_image et_pb_bg_layout_light et_pb_media_alignment_center et_pb_slide_37">
-				
-				
-				<div class="et_pb_container clearfix">
-					<div class="et_pb_slider_container_inner">
-						<div class="et_pb_slide_image"><img src="https://www.noovle.com/it/wp-content/uploads/sites/2/2015/12/12.png" alt="" /></div>
-						<div class="et_pb_slide_description">
-							
-				<div class="et_pb_slide_content"></div>
-							<div class="et_pb_button_wrapper"><a href="https://www.noovle.com/it/dicono-di-noi/" class="et_pb_more_button et_pb_button">Consulta l&#039;archivio</a></div>
-						</div> <!-- .et_pb_slide_description -->
-					</div>
-				</div> <!-- .et_pb_container -->
-				
-			</div> <!-- .et_pb_slide -->
-			<div class="et_pb_slide et_pb_slide_with_image et_pb_bg_layout_light et_pb_media_alignment_center et_pb_slide_38">
-				
-				
-				<div class="et_pb_container clearfix">
-					<div class="et_pb_slider_container_inner">
-						<div class="et_pb_slide_image"><img src="https://www.noovle.com/it/wp-content/uploads/sites/2/2015/12/21.png" alt="" /></div>
-						<div class="et_pb_slide_description">
-							
-				<div class="et_pb_slide_content"></div>
-							<div class="et_pb_button_wrapper"><a href="https://www.noovle.com/it/dicono-di-noi/" class="et_pb_more_button et_pb_button">Consulta l&#039;archivio</a></div>
-						</div> <!-- .et_pb_slide_description -->
-					</div>
-				</div> <!-- .et_pb_container -->
-				
-			</div> <!-- .et_pb_slide -->
-			<div class="et_pb_slide et_pb_slide_with_image et_pb_bg_layout_light et_pb_media_alignment_center et_pb_slide_39">
-				
-				
-				<div class="et_pb_container clearfix">
-					<div class="et_pb_slider_container_inner">
-						<div class="et_pb_slide_image"><img src="https://www.noovle.com/it/wp-content/uploads/sites/2/2015/12/7.png" alt="" /></div>
-						<div class="et_pb_slide_description">
-							
-				<div class="et_pb_slide_content"></div>
-							<div class="et_pb_button_wrapper"><a href="https://www.noovle.com/it/dicono-di-noi/" class="et_pb_more_button et_pb_button">Consulta l&#039;archivio</a></div>
-						</div> <!-- .et_pb_slide_description -->
-					</div>
-				</div> <!-- .et_pb_container -->
-				
-			</div> <!-- .et_pb_slide -->
-			<div class="et_pb_slide et_pb_slide_with_image et_pb_bg_layout_light et_pb_media_alignment_center et_pb_slide_40">
-				
-				
-				<div class="et_pb_container clearfix">
-					<div class="et_pb_slider_container_inner">
-						<div class="et_pb_slide_image"><img src="https://www.noovle.com/it/wp-content/uploads/sites/2/2015/12/14.png" alt="" /></div>
-						<div class="et_pb_slide_description">
-							
-				<div class="et_pb_slide_content"></div>
-							<div class="et_pb_button_wrapper"><a href="https://www.noovle.com/it/dicono-di-noi/" class="et_pb_more_button et_pb_button">Consulta l&#039;archivio</a></div>
-						</div> <!-- .et_pb_slide_description -->
-					</div>
-				</div> <!-- .et_pb_container -->
-				
-			</div> <!-- .et_pb_slide -->
-			<div class="et_pb_slide et_pb_slide_with_image et_pb_bg_layout_light et_pb_media_alignment_center et_pb_slide_41">
-				
-				
-				<div class="et_pb_container clearfix">
-					<div class="et_pb_slider_container_inner">
-						<div class="et_pb_slide_image"><img src="https://www.noovle.com/it/wp-content/uploads/sites/2/2015/12/29-2.png" alt="" /></div>
-						<div class="et_pb_slide_description">
-							
-				<div class="et_pb_slide_content"></div>
-							<div class="et_pb_button_wrapper"><a href="https://www.noovle.com/it/dicono-di-noi/" class="et_pb_more_button et_pb_button">Consulta l&#039;archivio</a></div>
-						</div> <!-- .et_pb_slide_description -->
-					</div>
-				</div> <!-- .et_pb_container -->
-				
-			</div> <!-- .et_pb_slide -->
-			<div class="et_pb_slide et_pb_slide_with_image et_pb_bg_layout_light et_pb_media_alignment_center et_pb_slide_42">
-				
-				
-				<div class="et_pb_container clearfix">
-					<div class="et_pb_slider_container_inner">
-						<div class="et_pb_slide_image"><img src="https://www.noovle.com/it/wp-content/uploads/sites/2/2015/12/20.png" alt="" /></div>
-						<div class="et_pb_slide_description">
-							
-				<div class="et_pb_slide_content"></div>
-							<div class="et_pb_button_wrapper"><a href="https://www.noovle.com/it/dicono-di-noi/" class="et_pb_more_button et_pb_button">Consulta l&#039;archivio</a></div>
-						</div> <!-- .et_pb_slide_description -->
-					</div>
-				</div> <!-- .et_pb_container -->
-				
-			</div> <!-- .et_pb_slide -->
-			
-				</div> <!-- .et_pb_slides -->
-				
-			</div> <!-- .et_pb_slider -->
-			
-				
-				
-			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_4 et_pb_with_background et_section_regular">
-				
-				
-				
-				
-					<div class=" et_pb_row et_pb_row_5">
-				<div class="et_pb_column et_pb_column_4_4  et_pb_column_8 et_pb_css_mix_blend_mode_passthrough et-last-child">
-				
-				
-				<div class="et_pb_text et_pb_module et_pb_bg_layout_dark et_pb_text_align_center  et_pb_text_3">
-				
-				
-				<div class="et_pb_text_inner">
-					<h2>Le ultime novità dal blog di Noovle</h2>
-				</div>
-			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_blog_grid_wrapper  et_pb_blog_0">
-					<div class="et_pb_blog_grid clearfix et_pb_bg_layout_light">
-					
-					
-					<div class="et_pb_ajax_pagination_container">
-						<div class="et_pb_salvattore_content" data-columns>
-			<article id="post-16206" class="et_pb_post clearfix post-16206 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-platform-architecture">
-
-			<div class="et_pb_image_container">							<a href="https://www.noovle.com/it/presente-information-technology-forum/" class="entry-featured-image-url">
-								<img src="https://www.noovle.com/it/wp-content/uploads/sites/2/2019/02/IKN_Information-Technology-Forum-2019_logo-bianco-400x250.jpg" alt='Noovle sponsor dell’Information Technology Forum 2019' width='400' height='250' />															</a>
-					</div> <!-- .et_pb_image_container -->
-												<h2 class="entry-title"><a href="https://www.noovle.com/it/presente-information-technology-forum/">Noovle sponsor dell’Information Technology Forum 2019</a></h2>
-				
-				<div class="post-content"><p> Sei parole chiave fanno da sfondo e compongono la cornice tematica del variegato programma dell’IT Forum di quest’anno al quale Noovle partecipa in veste di sponsor: #bigdata, #customerexperience #digitaltechnology #marketing #security e...</p>
- <a href="https://www.noovle.com/it/presente-information-technology-forum/" class="more-link" >leggi tutto</a></div>			
-			</article> <!-- .et_pb_post -->
-	
-			<article id="post-16148" class="et_pb_post clearfix post-16148 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-industria-4-0">
-
-			<div class="et_pb_image_container">							<a href="https://www.noovle.com/it/verso-industria-4-0-con-persona-al-centro/" class="entry-featured-image-url">
-								<img src="https://www.noovle.com/it/wp-content/uploads/sites/2/2019/02/verso-industria-4.0-persona-al-centro.3.jpg-400x250.png" alt='Verso Industria 4.0 con la Persona al centro' width='400' height='250' />															</a>
-					</div> <!-- .et_pb_image_container -->
-												<h2 class="entry-title"><a href="https://www.noovle.com/it/verso-industria-4-0-con-persona-al-centro/">Verso Industria 4.0 con la Persona al centro</a></h2>
-				
-				<div class="post-content"><p> È in fase di svolgimento, all’Oval Lingotto di Torino, la tredicesima edizione di A&T – Automation &Testing, fiera internazionale dedicata a industria 4.0, misure e prove, robotica e tecnologie innovative. Scopo dell’iniziativa far toccare con mano,...</p>
- <a href="https://www.noovle.com/it/verso-industria-4-0-con-persona-al-centro/" class="more-link" >leggi tutto</a></div>			
-			</article> <!-- .et_pb_post -->
-	
-			<article id="post-16128" class="et_pb_post clearfix post-16128 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-industria-4-0">
-
-			<div class="et_pb_image_container">							<a href="https://www.noovle.com/it/globalizzazione-impatti-quarta-rivoluzione-industriale/" class="entry-featured-image-url">
-								<img src="https://www.noovle.com/it/wp-content/uploads/sites/2/2019/02/WEF-per-NOOVLE-400x250.png" alt='Globalizzazione 4.0: gli impatti della quarta rivoluzione industriale' width='400' height='250' />															</a>
-					</div> <!-- .et_pb_image_container -->
-												<h2 class="entry-title"><a href="https://www.noovle.com/it/globalizzazione-impatti-quarta-rivoluzione-industriale/">Globalizzazione 4.0: gli impatti della quarta rivoluzione industriale</a></h2>
-				
-				<div class="post-content"><p> Al World Economic Forum i principi per cooperare e modellare il futuro dell'economia e della società digitale a livello globale. 400 eventi, tremila partecipanti, 70 capi di Stato, 12 premi Nobel e 110 nazioni rappresentate. Sono questi alcuni dei numeri...</p>
- <a href="https://www.noovle.com/it/globalizzazione-impatti-quarta-rivoluzione-industriale/" class="more-link" >leggi tutto</a></div>			
-			</article> <!-- .et_pb_post -->
-	</div><!-- .et_pb_salvattore_content -->
-					</div>
-					</div> <!-- .et_pb_posts --> 
-				</div>
-			</div> <!-- .et_pb_column -->
-				
-				
-			</div> <!-- .et_pb_row -->
-				
-				
-			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_5 et_pb_with_background et_section_regular">
-				
-				
-				
-				
-					<div class=" et_pb_row et_pb_row_6">
-				<div class="et_pb_column et_pb_column_2_3  et_pb_column_9 et_pb_css_mix_blend_mode_passthrough">
-				
-				
-				<div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left  et_pb_text_4">
-				
-				
-				<div class="et_pb_text_inner">
-					<h2>La nostra forza nei numeri</h2>
-				</div>
-			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_tabs  et_pb_tabs_0">
-				
-				
-				<ul class="et_pb_tabs_controls clearfix">
-					<li class="et_pb_tab_0 et_pb_tab_active"><a href="#">Chi siamo</a></li><li class="et_pb_tab_1"><a href="#">Cosa facciamo</a></li><li class="et_pb_tab_2"><a href="#">Chi aiutiamo</a></li><li class="et_pb_tab_3"><a href="#">i nostri numeri</a></li>
+		<!-- Nav -->
+			<nav id="menu">
+				<ul class="links">
+					<li><a href="index.html">Home</a></li>
+					<li><a href="generic.html">Generic</a></li>
+					<li><a href="elements.html">Elements</a></li>
 				</ul>
-				<div class="et_pb_all_tabs">
-					<div class="et_pb_tab clearfix et_pb_active_content et_pb_tab_0">
-				
-				
-				<div class="et_pb_tab_content">
-					<p><span style="font-weight: 400">Noovle, Partner Google, è un’azienda di consulenza di cloud computing e digitale nata nel giugno 2013 dalla fusione di Global Base e Scube NewMedia. Due tra i principali partner Google in Italia e leader nell’integrazione di soluzioni e servizi Cloud e tecnologie digitali per le imprese e le pubbliche amministrazioni, università.</span> <span style="font-weight: 400">Siamo fieri di avvalerci di prestigiose partnership, tra le quali </span><b><a href="https://www.noovle.com/it/google-cloud/">Google Cloud</a>, <a href="https://www.noovle.com/it/liferay/">Liferay</a>, <a href="https://www.noovle.com/it/gigya/">Gigya</a> e <a href="https://www.noovle.com/it/salesforce-crm-numero-1-al-mondo/">Salesforce</a>.</b></p>
-				</div><!-- .et_pb_tab_content" -->
-			</div> <!-- .et_pb_tab --><div class="et_pb_tab clearfix et_pb_tab_1">
-				
-				
-				<div class="et_pb_tab_content">
-					<p><span style="font-weight: 400">Come azienda di consulenza Cloud ICT e </span><b>System Integrator</b><span style="font-weight: 400">, abbiamo rafforzato competenze in diversi ambiti tecnologici: dall’</span><a href="https://www.noovle.com/it/soluzioni__trashed/soluzioni-smart-enterprise/"><b>Enterprise</b></a><b> </b><b>&amp; </b><a href="https://www.noovle.com/it/soluzioni-web-search-for-enterprise/"><b>Web Search</b></a><span style="font-weight: 400"> allo </span><b>sviluppo</b><span style="font-weight: 400"> di applicazioni, da progetti basati sul </span><a href="https://www.noovle.com/it/soluzioni-cloud-per-aziende/"><b>Cloud Computing</b></a><b> </b><span style="font-weight: 400">alla tecnologia </span><a href="https://www.noovle.com/it/soluzioni/soluzioni-geospatial-intelligence"><b>Geospatial</b></a><span style="font-weight: 400">, dalle piattaforme </span><a href="https://www.noovle.com/it/soluzioni-video-professionali/"><b>Video</b></a><span style="font-weight: 400"> online alle soluzioni <strong><a href="https://www.noovle.com/it/google-cloud/">Google Cloud</a></strong></span><span style="font-weight: 400">.</span> <span style="font-weight: 400">Il nostro team è composto da oltre </span><b>100 persone</b><span style="font-weight: 400">: una rete capillare di consulenti, project manager, tecnici e sviluppatori certificati, che copre l’intero territorio nazionale. Le </span><strong><a href="https://www.noovle.com/it/contatti">sedi</a></strong><span style="font-weight: 400"> </span><span style="font-weight: 400">principali in Italia sono a </span><b>Milano</b><span style="font-weight: 400">,</span><b> Firenze </b><span style="font-weight: 400">e</span><b> Roma</b><span style="font-weight: 400">, con distaccamenti a </span><b>Palermo, Lecce </b><span style="font-weight: 400">e </span><b>Trento</b><span style="font-weight: 400">.</span></p>
-				</div><!-- .et_pb_tab_content" -->
-			</div> <!-- .et_pb_tab --><div class="et_pb_tab clearfix et_pb_tab_2">
-				
-				
-				<div class="et_pb_tab_content">
-					<p><span style="font-weight: 400">Abbiamo aiutato aziende, pubbliche amministrazioni e università a diventare più collaborativi e connessi, a gestire meglio le relazioni coi loro clienti e a semplificare i processi IT. Obiettivi raggiunti grazie allo sviluppo e all’implementazione di progetti personalizzati dove convergono le principali tendenze digitali: </span><a href="https://www.noovle.com/it/social-business-strategy/"><b>Social media</b></a><span style="font-weight: 400">, strumenti </span><b>mobile</b><span style="font-weight: 400">, soluzioni </span><a href="https://www.noovle.com/it/soluzioni/soluzioni-cloud-per-aziende"><b>Cloud</b></a><span style="font-weight: 400">, valorizzazione </span><a href="https://www.noovle.com/it/tecnologie-big-data-business-intelligence/"><b>Big Data</b></a><span style="font-weight: 400">.</span> <span style="font-weight: 400">In merito ai </span><b>settori d’applicazione</b><span style="font-weight: 400"> abbiamo maturato esperienze con: assicurazioni, automotive, banche, commercio al dettaglio, editoria e media, giochi e servizi, immobiliare, petrolio e gas, </span><a href="https://www.noovle.com/it/health"><b>sanità</b></a><span style="font-weight: 400">, software, telecomunicazioni, utility, viaggi e turismo.</span></p>
-				</div><!-- .et_pb_tab_content" -->
-			</div> <!-- .et_pb_tab --><div class="et_pb_tab clearfix et_pb_tab_3">
-				
-				
-				<div class="et_pb_tab_content">
-					<p><span style="font-weight: 400">La nostra forza è anche nei numeri, e in un’esperienza già consolidata: più di </span><b>1000 clienti</b><span style="font-weight: 400">; </span><b>76.000 account G Suite</b><span style="font-weight: 400"> attivati e oltre</span><b> 670.000 Educational</b><span style="font-weight: 400">; </span><b>130 GSA</b><span style="font-weight: 400"> implementate e </span><b>150.000.000 di documenti indicizzati</b><span style="font-weight: 400">; più di </span><b>1.000.000 di punti</b><span style="font-weight: 400"> georeferenziati su <strong><a href="https://www.noovle.com/it/geocms-piattaforma-gestione-dati-georeferenziati/">GeoCMS</a></strong>, il content management system sviluppato su infrastruttura Google per la visualizzazione su mappa dei dati di business; quasi </span><b>340.000.000</b><span style="font-weight: 400"> di visualizzazioni dei contenuti video caricati in </span><b>Video Cloud</b><span style="font-weight: 400">, per un totale di oltre 2.000 Terabyte di traffico.</span> <span style="font-weight: 400">Dopo soli nove mesi dalla sua nascita abbiamo ottenuti, oltre al riconoscimento come </span><a href="http://www.datamanager.it/news/noovle-premiata-da-google-enteprise-come-partner-year-2013.html"><span style="font-weight: 400">Partner EMEA del 2013 </span></a><span style="font-weight: 400">nella categoria Search, anche le nomination per le tecnologie </span><b>G Suite, Google Maps Platform e come Global Google Partner, assegnate a tre soli candidati in tutta Europa</b><span style="font-weight: 400">.</span></p>
-				</div><!-- .et_pb_tab_content" -->
-			</div> <!-- .et_pb_tab -->
-				</div> <!-- .et_pb_all_tabs -->
-			</div> <!-- .et_pb_tabs -->
-			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3  et_pb_column_10 et_pb_css_mix_blend_mode_passthrough et-last-child">
-				
-				
-				<div class="et_pb_module et_pb_space et_pb_divider_hidden et_pb_divider_0"><div class="et_pb_divider_internal"></div></div><div class="et_pb_module et_pb_image et_pb_image_1 et_always_center_on_mobile et_pb_image_sticky">
-				
-				
-				<a href="https://www.noovle.com/it/wp-content/uploads/sites/2/2018/11/NOOVLE_Infografica-3010-2018.png" class="et_pb_lightbox_image" title="Infografica Noovle"><span class="et_pb_image_wrap"><img src="https://www.noovle.com/it/wp-content/uploads/sites/2/2018/11/NOOVLE_Infografica-3010-2018.png" alt="Infografica Noovle" title="Infografica Noovle" /></span></a>
-			</div>
-			</div> <!-- .et_pb_column -->
-				
-				
-			</div> <!-- .et_pb_row --><div class=" et_pb_row et_pb_row_7">
-				<div class="et_pb_column et_pb_column_4_4  et_pb_column_11 et_pb_css_mix_blend_mode_passthrough et-last-child">
-				
-				
-				<div class="et_pb_promo et_pb_module et_pb_bg_layout_dark et_pb_text_align_center trackUrl et_pb_cta_1" style="background-color: #e02b20;">
-				
-				
-				<div class="et_pb_promo_description">
-					<h2 class="et_pb_module_header">Vuoi maggiori informazioni sulle nostre soluzioni e servizi di cloud computing?</h2>
-					<p>Ti interessa una demo dei prodotti sviluppati da noi o dai nostri partner?</p>
+			</nav>
+
+		<!-- Banner -->
+			<section id="banner">
+				<div class="inner">
+					<h1>This is Binary, a free and fully responsive<br />
+					website template by <a href="https://templated.co">TEMPLATED</a></h1>
+					<ul class="actions">
+						<li><a href="#one" class="button alt scrolly big">Continue</a></li>
+					</ul>
 				</div>
-				<div class="et_pb_button_wrapper"><a class="et_pb_promo_button et_pb_button" href="https://www.noovle.com/it/contatti/">CONTATTACI</a></div>
-			</div>
-			</div> <!-- .et_pb_column -->
-				
-				
-			</div> <!-- .et_pb_row -->
-				
-				
-			</div> <!-- .et_pb_section -->					</div> <!-- .entry-content -->
+			</section>
 
-				
-				</article> <!-- .et_pb_post -->
-
-			
-
-</div> <!-- #main-content -->
-
-
-	<span class="et_pb_scroll_top et-pb-icon"></span>
-
-
-			<footer id="main-footer">
-				
-<div class="container">
-	<div id="footer-widgets" class="clearfix">
-	<div class="footer-widget"><div id="nav_menu-4" class="fwidget et_pb_widget widget_nav_menu"><h4 class="title">Countries</h4><div class="menu-footer-menu1-container"><ul id="menu-footer-menu1" class="menu"><li id="menu-item-14905" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2 current_page_item menu-item-14905"><a href="https://www.noovle.com/it/">Italy</a></li>
-<li id="menu-item-14907" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14907"><a href="https://www.noovle.com/fr">France</a></li>
-<li id="menu-item-14909" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14909"><a href="https://www.noovle.com/mt">Malta</a></li>
-<li id="menu-item-14906" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14906"><a href="https://www.noovle.com/ch">Switzerland</a></li>
-<li id="menu-item-14908" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14908"><a href="https://www.noovle.com/en">UK</a></li>
-</ul></div></div> <!-- end .fwidget --></div> <!-- end .footer-widget --><div class="footer-widget"><div id="nav_menu-5" class="fwidget et_pb_widget widget_nav_menu"><h4 class="title">Soluzioni</h4><div class="menu-footer-menu1b-container"><ul id="menu-footer-menu1b" class="menu"><li id="menu-item-14904" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14904"><a href="https://www.noovle.com/it/soluzioni-cloud-per-aziende/">Cloud</a></li>
-<li id="menu-item-14903" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14903"><a href="https://www.noovle.com/it/soluzioni-smart-enterprise/">Smart Enterprise</a></li>
-<li id="menu-item-14902" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14902"><a href="https://www.noovle.com/it/soluzioni-geospatial-intelligence/">Geospatial Intelligence</a></li>
-<li id="menu-item-13703" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13703"><a href="https://www.noovle.com/it/tecnologie-big-data-business-intelligence/">Big Data &amp; Business Intelligence</a></li>
-<li id="menu-item-13704" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13704"><a href="https://www.noovle.com/it/digital-communication/">User Experience</a></li>
-<li id="menu-item-14405" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14405"><a href="https://www.noovle.com/it/scegli-motore-ricerca-piu-adatto-alle-tue-esigenze/">Motori di ricerca</a></li>
-</ul></div></div> <!-- end .fwidget --></div> <!-- end .footer-widget --><div class="footer-widget"><div id="nav_menu-6" class="fwidget et_pb_widget widget_nav_menu"><h4 class="title">Prodotti</h4><div class="menu-footer-menu-2-container"><ul id="menu-footer-menu-2" class="menu"><li id="menu-item-13701" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13701"><a href="https://www.noovle.com/it/google-cloud/">Google Cloud</a></li>
-<li id="menu-item-14407" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14407"><a href="https://www.noovle.com/it/gigya/">Gigya</a></li>
-<li id="menu-item-14408" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14408"><a href="https://www.noovle.com/it/liferay/">Liferay</a></li>
-<li id="menu-item-14409" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14409"><a href="https://www.noovle.com/it/salesforce-crm-numero-1-al-mondo/">Salesforce</a></li>
-</ul></div></div> <!-- end .fwidget --></div> <!-- end .footer-widget --><div class="footer-widget last"><div id="nav_menu-7" class="fwidget et_pb_widget widget_nav_menu"><h4 class="title">Noovle4</h4><div class="menu-footer-menu-2b-container"><ul id="menu-footer-menu-2b" class="menu"><li id="menu-item-14410" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14410"><a href="https://www.noovle.com/it/emilio-chatbot-noovle/">EMIL.IO – Il ChatBot</a></li>
-<li id="menu-item-14411" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14411"><a href="https://www.noovle.com/it/baboon-smart-video-cloud-platform/">BABOON</a></li>
-<li id="menu-item-14412" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14412"><a href="https://www.noovle.com/it/teampot-team-task-management-app/">TeamPot</a></li>
-<li id="menu-item-14413" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14413"><a href="https://www.noovle.com/it/trustapp-pec-g-suite/">trustApp</a></li>
-</ul></div></div> <!-- end .fwidget --></div> <!-- end .footer-widget -->	</div> <!-- #footer-widgets -->
-</div>	<!-- .container -->
-
-		
-				<div id="footer-bottom">
-					<div class="container clearfix">
-				<ul class="et-social-icons">
-
-	<li class="et-social-icon et-social-facebook">
-		<a href="https://www.facebook.com/NoovleItalia" class="icon">
-			<span>Facebook</span>
-		</a>
-	</li>
-	<li class="et-social-icon et-social-twitter">
-		<a href="https://twitter.com/Noovle_Group" class="icon">
-			<span>Twitter</span>
-		</a>
-	</li>
-	<li class="et-social-icon et-social-google-plus">
-		<a href="https://plus.google.com/u/0/b/106110649989499537415/+NoovleGroup" class="icon">
-			<span>Google</span>
-		</a>
-	</li>
-
-</ul><div id="footer-info">Copyright © 2018 - Noovle Srl - Via Della Giustizia 10, 20125 - Milano (MI) - P.IVA 08212960960 - <a href="https://www.noovle.com/it/privacy-policy/" target="_blank">Privacy Policy</a> 
- Codice Univoco fatturazione elettronica (SDI): A4707H7</div>					</div>	<!-- .container -->
+		<!-- One -->
+			<article id="one" class="post style1">
+				<div class="image">
+					<img src="images/pic14.jpg" alt="" data-position="75% center" />
 				</div>
-			</footer> <!-- #main-footer -->
-		</div> <!-- #et-main-area -->
+				<div class="content">
+					<div class="inner">
+						<header>
+							<h2><a href="generic.html">Ipsum lorem sed magna</a></h2>
+							<p class="info">3 days ago by <a href="#">Jane Doe</a></p>
+						</header>
+						<p>Nullam posuere erat vel placerat rutrum. Praesent ac consectetur dui, et congue quam. Donec aliquam lacinia condimentum. Integer porta massa sapien, commodo sodales diam suscipit vitae. Aliquam quis felis sed urna semper semper. Phasellus eu scelerisque mi. Vivamus aliquam nisl libero, sit amet scelerisque ligula laoreet vel.</p>
+						<ul class="actions">
+							<li><a href="generic.html" class="button alt">Read More</a></li>
+						</ul>
+					</div>
+					<div class="postnav">
+						<a href="#" class="prev disabled"><span class="icon fa-chevron-up"></span></a>
+						<a href="#two" class="scrolly next"><span class="icon fa-chevron-down"></span></a>
+					</div>
+				</div>
+			</article>
 
+		<!-- Two -->
+			<article id="two" class="post invert style1 alt">
+				<div class="image">
+					<img src="images/pic13.jpg" alt="" data-position="10% center" />
+				</div>
+				<div class="content">
+					<div class="inner">
+						<header>
+							<h2><a href="generic.html">Donec ex risus mollis</a></h2>
+							<p class="info">3 days ago by <a href="#">Jane Doe</a></p>
+						</header>
+						<p>Nullam posuere erat vel placerat rutrum. Praesent ac consectetur dui, et congue quam. Donec aliquam lacinia condimentum. Integer porta massa sapien, commodo sodales diam suscipit vitae. Aliquam quis felis sed urna semper semper. Phasellus eu scelerisque mi. Vivamus aliquam nisl libero, sit amet scelerisque ligula laoreet vel.</p>
+						<ul class="actions">
+							<li><a href="generic.html" class="button alt">Read More</a></li>
+						</ul>
+					</div>
+					<div class="postnav">
+						<a href="#one" class="scrolly prev"><span class="icon fa-chevron-up"></span></a>
+						<a href="#three" class="scrolly next"><span class="icon fa-chevron-down"></span></a>
+					</div>
+				</div>
+			</article>
 
-	</div> <!-- #page-container -->
+		<!-- Three -->
+			<article id="three" class="post style2">
+				<div class="image">
+					<img src="images/pic12.jpg" alt="" data-position="80% center" />
+				</div>
+				<div class="content">
+					<div class="inner">
+						<header>
+							<h2><a href="generic.html">Sed tempus interdum</a></h2>
+							<p class="info">3 days ago by <a href="#">Jane Doe</a></p>
+						</header>
+						<p>Nullam posuere erat vel placerat rutrum. Praesent ac consectetur dui, et congue quam. Donec aliquam lacinia condimentum. Integer porta massa sapien, commodo sodales diam suscipit vitae. Aliquam quis felis sed urna semper semper. Phasellus eu scelerisque mi. Vivamus aliquam nisl libero, sit amet scelerisque ligula laoreet vel.</p>
+						<ul class="actions">
+							<li><a href="generic.html" class="button alt">Read More</a></li>
+						</ul>
+					</div>
+					<div class="postnav">
+						<a href="#two" class="scrolly prev"><span class="icon fa-chevron-up"></span></a>
+						<a href="#four" class="scrolly next"><span class="icon fa-chevron-down"></span></a>
+					</div>
+				</div>
+			</article>
 
-		<script type="text/javascript">
-		var et_animation_data = [];
-	</script>
-	<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-123147819-1"></script>
-<script>
- window.dataLayer = window.dataLayer || [];
- function gtag(){dataLayer.push(arguments);}
- gtag('js', new Date());
+		<!-- Four -->
+			<article id="four" class="post invert style2 alt">
+				<div class="image">
+					<img src="images/pic14.jpg" alt="" data-position="60% center" />
+				</div>
+				<div class="content">
+					<div class="inner">
+						<header>
+							<h2><a href="generic.html">Adipiscing sed urna</a></h2>
+							<p class="info">3 days ago by <a href="#">Jane Doe</a></p>
+						</header>
+						<p>Nullam posuere erat vel placerat rutrum. Praesent ac consectetur dui, et congue quam. Donec aliquam lacinia condimentum. Integer porta massa sapien, commodo sodales diam suscipit vitae. Aliquam quis felis sed urna semper semper. Phasellus eu scelerisque mi. Vivamus aliquam nisl libero, sit amet scelerisque ligula laoreet vel.</p>
+						<ul class="actions">
+							<li><a href="generic.html" class="button alt">Read More</a></li>
+						</ul>
+					</div>
+					<div class="postnav">
+						<a href="#three" class="scrolly prev"><span class="icon fa-chevron-up"></span></a>
+						<a href="#five" class="scrolly next"><span class="icon fa-chevron-down"></span></a>
+					</div>
+				</div>
+			</article>
 
- gtag('config', 'UA-123147819-1');
-</script><link rel='stylesheet' id='mediaelement-css'  href='https://www.noovle.com/it/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.6-78496d1' type='text/css' media='all' />
-<link rel='stylesheet' id='wp-mediaelement-css'  href='https://www.noovle.com/it/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=4.9.5' type='text/css' media='all' />
-<script type='text/javascript'>
-/* <![CDATA[ */
-var options = {"ajax_url":"https:\/\/www.noovle.com\/it\/wp-admin\/admin-ajax.php","post_id":"2"};
-/* ]]> */
-</script>
-<script type='text/javascript' src='https://www.noovle.com/it/wp-content/plugins/cf7tosalesforce//js/formdinamico.js?ver=1.0'></script>
-<script type='text/javascript'>
-/* <![CDATA[ */
-var wpcf7 = {"apiSettings":{"root":"https:\/\/www.noovle.com\/it\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Per favore dimostra che non sei un robot."}}};
-/* ]]> */
-</script>
-<script type='text/javascript' src='https://www.noovle.com/it/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.1'></script>
-<script type='text/javascript'>
-/* <![CDATA[ */
-var et_shortcodes_strings = {"previous":"Precedente","next":"Avanti"};
-var et_pb_custom = {"ajaxurl":"https:\/\/www.noovle.com\/it\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/www.noovle.com\/it\/wp-content\/themes\/Divi\/images","builder_images_uri":"https:\/\/www.noovle.com\/it\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"3a1ea60158","subscription_failed":"Si prega di verificare i campi di seguito per assicurarsi di aver inserito le informazioni corrette.","et_ab_log_nonce":"f970509ed2","fill_message":"Compila i seguenti campi:","contact_error_message":"Per favore, correggi i seguenti errori:","invalid":"E-mail non valido","captcha":"Captcha","prev":"Indietro","previous":"Precedente","next":"Accanto","wrong_captcha":"Hai inserito un numero errato nei captcha.","is_builder_plugin_used":"","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","is_ab_testing_active":"","page_id":"2","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":""};
-var et_pb_box_shadow_elements = [];
-/* ]]> */
-</script>
-<script type='text/javascript' src='https://www.noovle.com/it/wp-content/themes/Divi/js/custom.min.js?ver=3.0.106'></script>
-<script type='text/javascript' src='https://www.noovle.com/it/wp-content/themes/Divi/core/admin/js/common.js?ver=3.0.106'></script>
-<script type='text/javascript'>
-var mejsL10n = {"language":"it","strings":{"mejs.install-flash":"Stai usando un browser che non ha Flash player abilitato o installato. Attiva il tuo plugin Flash player o scarica l'ultima versione da https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen-off":"Disattiva lo schermo intero","mejs.fullscreen-on":"Vai a tutto schermo","mejs.download-video":"Scarica il video","mejs.fullscreen":"Schermo intero","mejs.time-jump-forward":["Vai avanti di 1 secondo","Salta in avanti di %1 secondi"],"mejs.loop":"Attiva\/disattiva la riproduzione automatica","mejs.play":"Play","mejs.pause":"Pausa","mejs.close":"Chiudi","mejs.time-slider":"Time Slider","mejs.time-help-text":"Usa i tasti freccia sinistra\/destra per avanzare di un secondo, su\/gi\u00f9 per avanzare di 10 secondi.","mejs.time-skip-back":["Torna indietro di 1 secondo","Vai indietro di %1 secondi"],"mejs.captions-subtitles":"Didascalie\/Sottotitoli","mejs.captions-chapters":"Capitoli","mejs.none":"Nessuna","mejs.mute-toggle":"Cambia il muto","mejs.volume-help-text":"Usa i tasti freccia su\/gi\u00f9 per aumentare o diminuire il volume.","mejs.unmute":"Togli il muto","mejs.mute":"Muto","mejs.volume-slider":"Cursore del volume","mejs.video-player":"Video Player","mejs.audio-player":"Audio Player","mejs.ad-skip":"Salta pubblicit\u00e0","mejs.ad-skip-info":["Salta in 1 secondo","Salta in %1 secondi"],"mejs.source-chooser":"Scelta sorgente","mejs.stop":"Stop","mejs.speed-rate":"Velocit\u00e0 di riproduzione","mejs.live-broadcast":"Diretta streaming","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanese","mejs.arabic":"Arabo","mejs.belarusian":"Bielorusso","mejs.bulgarian":"Bulgaro","mejs.catalan":"Catalano","mejs.chinese":"Cinese","mejs.chinese-simplified":"Cinese (semplificato)","mejs.chinese-traditional":"Cinese (tradizionale)","mejs.croatian":"Croato","mejs.czech":"Ceco","mejs.danish":"Danese","mejs.dutch":"Olandese","mejs.english":"Inglese","mejs.estonian":"Estone","mejs.filipino":"Filippino","mejs.finnish":"Finlandese","mejs.french":"Francese","mejs.galician":"Galician","mejs.german":"Tedesco","mejs.greek":"Greco","mejs.haitian-creole":"Haitian Creole","mejs.hebrew":"Ebraico","mejs.hindi":"Hindi","mejs.hungarian":"Ungherese","mejs.icelandic":"Icelandic","mejs.indonesian":"Indonesiano","mejs.irish":"Irish","mejs.italian":"Italiano","mejs.japanese":"Giapponese","mejs.korean":"Coreano","mejs.latvian":"Lettone","mejs.lithuanian":"Lituano","mejs.macedonian":"Macedone","mejs.malay":"Malese","mejs.maltese":"Maltese","mejs.norwegian":"Norvegese","mejs.persian":"Persiano","mejs.polish":"Polacco","mejs.portuguese":"Portoghese","mejs.romanian":"Romeno","mejs.russian":"Russo","mejs.serbian":"Serbo","mejs.slovak":"Slovak","mejs.slovenian":"Sloveno","mejs.spanish":"Spagnolo","mejs.swahili":"Swahili","mejs.swedish":"Svedese","mejs.tagalog":"Tagalog","mejs.thai":"Thailandese","mejs.turkish":"Turco","mejs.ukrainian":"Ucraino","mejs.vietnamese":"Vietnamita","mejs.welsh":"Gallese","mejs.yiddish":"Yiddish"}};
-</script>
-<script type='text/javascript' src='https://www.noovle.com/it/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.6-78496d1'></script>
-<script type='text/javascript' src='https://www.noovle.com/it/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=4.9.5'></script>
-<script type='text/javascript'>
-/* <![CDATA[ */
-var _wpmejsSettings = {"pluginPath":"\/it\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive"};
-/* ]]> */
-</script>
-<script type='text/javascript' src='https://www.noovle.com/it/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=4.9.5'></script>
-</body>
+		<!-- Five -->
+			<article id="five" class="post style3">
+				<div class="image">
+					<img src="images/pic13.jpg" alt="" data-position="5% center" />
+				</div>
+				<div class="content">
+					<div class="inner">
+						<header>
+							<h2><a href="generic.html">Interdum et rutrum</a></h2>
+							<p class="info">3 days ago by <a href="#">Jane Doe</a></p>
+						</header>
+						<p>Nullam posuere erat vel placerat rutrum. Praesent ac consectetur dui, et congue quam. Donec aliquam lacinia condimentum. Integer porta massa sapien, commodo sodales diam suscipit vitae. Aliquam quis felis sed urna semper semper. Phasellus eu scelerisque mi. Vivamus aliquam nisl libero, sit amet scelerisque ligula laoreet vel.</p>
+						<ul class="actions">
+							<li><a href="generic.html" class="button alt">Read More</a></li>
+						</ul>
+					</div>
+					<div class="postnav">
+						<a href="#four" class="scrolly prev"><span class="icon fa-chevron-up"></span></a>
+						<a href="#six" class="scrolly next"><span class="icon fa-chevron-down"></span></a>
+					</div>
+				</div>
+			</article>
+
+		<!-- Six -->
+			<article id="six" class="post invert style3 alt">
+				<div class="image">
+					<img src="images/pic12.jpg" alt="" data-position="80% center" />
+				</div>
+				<div class="content">
+					<div class="inner">
+						<header>
+							<h2><a href="generic.html">Magna porta aliquam</a></h2>
+							<p class="info">3 days ago by <a href="#">Jane Doe</a></p>
+						</header>
+						<p>Nullam posuere erat vel placerat rutrum. Praesent ac consectetur dui, et congue quam. Donec aliquam lacinia condimentum. Integer porta massa sapien, commodo sodales diam suscipit vitae. Aliquam quis felis sed urna semper semper. Phasellus eu scelerisque mi. Vivamus aliquam nisl libero, sit amet scelerisque ligula laoreet vel.</p>
+						<ul class="actions">
+							<li><a href="generic.html" class="button alt">Read More</a></li>
+						</ul>
+					</div>
+					<div class="postnav">
+						<a href="#five" class="scrolly prev"><span class="icon fa-chevron-up"></span></a>
+						<a href="#" class="scrolly next disabled"><span class="icon fa-chevron-down"></span></a>
+					</div>
+				</div>
+			</article>
+
+		<!-- Footer -->
+			<footer id="footer">
+				<ul class="icons">
+					<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+					<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+					<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+				</ul>
+				<div class="copyright">
+					&copy; Untitled. Design: <a href="https://templated.co">TEMPLATED</a>. Images: <a href="https://unsplash.com">Unsplash</a>.
+				</div>
+			</footer>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
 </html>
